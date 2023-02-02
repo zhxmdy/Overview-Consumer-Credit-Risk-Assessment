@@ -1,7 +1,6 @@
 # Overview consumer credit risk assessment
 -------------------
-
- [TOC]  
+[TOC]
 
 
 ## Credit Scoring Datasets
