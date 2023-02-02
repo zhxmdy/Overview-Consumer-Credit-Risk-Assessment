@@ -2,13 +2,13 @@
 
 ### Credit Scoring Datasets
 **UCI:**  
- German. URL: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data) 
+ German. URL: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)  
  Australian. URL: http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)  
  Japanese. URL: https://archive.ics.uci.edu/ml/datasets/Japanese+Credit+Screening  
  DefaultData(Taiwan). URL: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients  
  >References: Dua, D. & Graff, C. (2017). UCI machine learning repository.
 
-**Kaggle:**
+**Kaggle:**  
  GiveMeSomeCredit. URL: https://www.kaggle.com/c/GiveMeSomeCredit/data  
  AER Credit Card. URL: https://www.kaggle.com/dansbecker/aer-credit-card-data  
  Lendingclub dataset. URL: https://www.kaggle.com/wordsforthewise/lending-club  
