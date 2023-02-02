@@ -1,4 +1,7 @@
 # Overview consumer credit risk assessment
+-------------------
+
+[TOC]
 
 ### Credit Scoring Datasets
 **UCI:**  
