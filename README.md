@@ -1,7 +1,33 @@
-# overview consumer credit risk assessment
+# Overview consumer credit risk assessment
 
 ### Credit Scoring Datasets
+**UCI:**
+ German. URL: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data) 
+ Australian. URL: http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)  
+ Japanese. URL: https://archive.ics.uci.edu/ml/datasets/Japanese+Credit+Screening  
+ DefaultData(Taiwan). URL: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients  
+ >References: Dua, D. & Graff, C. (2017). UCI machine learning repository.
 
+**Kaggle:**
+ GiveMeSomeCredit. URL: https://www.kaggle.com/c/GiveMeSomeCredit/data  
+ AER Credit Card. URL: https://www.kaggle.com/dansbecker/aer-credit-card-data  
+ Lendingclub dataset. URL: https://www.kaggle.com/wordsforthewise/lending-club  
+ BankFear dataset. URL: https://www.kaggle.com/codenamekash/bank-fears-loanliness 
+ Bank Loan Status Dataset. URL: https://www.kaggle.com/zaurbegiev/my-dataset 
+ ProsperLoan Dataset. URL: https://www.kaggle.com/datasets/yousuf28/prosper-loan 
+
+**Competition:**
+ PAKDD2009: Data mining competition. URL: https://github.com/JLZml/Credit-Scoring-Data-Sets 
+ QianHai Credit Dataset: URL: https://www.kesci.com/mw/project/59ca5ff521100106623f3db3/dataset 
+ Rong360 dataset. URL: https://github.com/zhaoyuji/Financial-Data-Analysis-for-Rong360-Contest 
+ Loan Default Prediction - Imperial College London. URL: https://www.kaggle.com/competitions/loan-default-prediction/data 
+ Home Credit Default Risk competition. URL: https://www.kaggle.com/c/home-credit-default-risk 
+
+**Others:**
+ Fannie dataset. URL: https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/ 
+ Freddie Mac. URL: https://www.freddiemac.com/research/datasets 
+ Th02: URL: https://github.com/JLZml/Credit-Scoring-Data-Sets/tree/master/5.%20thomas 
+ >References: L.C. Thomas, D.B. Edelman, J.N. Crook, Credit Scoring and its Applications, SIAM, Philadelphia, 2002
 
 ### Statistical articles database
 | Number     |    Title | Year  |
