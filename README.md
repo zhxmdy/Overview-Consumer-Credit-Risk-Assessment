@@ -1,10 +1,11 @@
 # Overview consumer credit risk assessment
 -------------------
 
-[TOC]
+ [TOC]  
 
 
 ## Credit Scoring Datasets
+
 **UCI:**  
  German. URL: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)  
  Australian. URL: http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)  
@@ -30,10 +31,11 @@
 **Others:**  
  Fannie dataset. URL: https://capitalmarkets.fanniemae.com/credit-risk-transfer/single-family-credit-risk-transfer/  
  Freddie Mac. URL: https://www.freddiemac.com/research/datasets  
- Th02: URL: https://github.com/JLZml/Credit-Scoring-Data-Sets/tree/master/5.%20thomas  
+ Th02. URL: https://github.com/JLZml/Credit-Scoring-Data-Sets/tree/master/5.%20thomas  
  >References: L.C. Thomas, D.B. Edelman, J.N. Crook, Credit Scoring and its Applications, SIAM, Philadelphia, 2002
 
 ## Statistical articles database
+
 | Number     |    Title | Year  |
 | :-------- | :--------| :--: |
 |1	|Reject inference applied to logistic regression for credit scoring|	1993|
