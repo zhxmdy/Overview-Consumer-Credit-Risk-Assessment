@@ -176,7 +176,7 @@
 |142|	A new algorithm of modified binary particle swarm optimization based on the Gustafson-Kessel for credit risk assessment	|2019|
 |143|	Profit-based credit scoring based on robust optimization and feature selection	|2019
 |144|	Novel evolutionary multi-objective soft subspace clustering algorithm for credit risk assessment	|2019|
-|145|	An ensemble semi-supervised learning method for predicting defaults in social lending	|2|019|
+|145|	An ensemble semi-supervised learning method for predicting defaults in social lending	|2019|
 |146|	Transfer learning-based default prediction model for consumer credit in China	|2019|
 |147|	Default prediction in P2P lending from high-dimensional data based on machine learning	|2019|
 |148|	Wide and deep learning for peer-to-peer lending	|2019|
