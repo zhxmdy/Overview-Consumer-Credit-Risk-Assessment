@@ -1,9 +1,10 @@
 # Overview consumer credit risk assessment
 -------------------
+
 [TOC]
 
 
-## Credit Scoring Datasets
+## 1.Credit Scoring Datasets
 
 **UCI:**  
  German. URL: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)  
@@ -33,7 +34,15 @@
  Th02. URL: https://github.com/JLZml/Credit-Scoring-Data-Sets/tree/master/5.%20thomas  
  >References: L.C. Thomas, D.B. Edelman, J.N. Crook, Credit Scoring and its Applications, SIAM, Philadelphia, 2002
 
-## Statistical articles database
+## 2.Analytical framework
+
+### 2.1 classification algorithm
+
+### 2.2 data traits
+
+### learning methods
+
+## Statistical articles database(publications in general findings)
 
 | Number     |    Title | Year  |
 | :-------- | :--------| :--: |
