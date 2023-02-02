@@ -1,7 +1,7 @@
 # Overview consumer credit risk assessment
 
 ### Credit Scoring Datasets
-**UCI:**
+**UCI:**  
  German. URL: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data) 
  Australian. URL: http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)  
  Japanese. URL: https://archive.ics.uci.edu/ml/datasets/Japanese+Credit+Screening  
