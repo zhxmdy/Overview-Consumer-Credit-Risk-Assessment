@@ -1,9 +1,8 @@
 # Overview consumer credit risk assessment
 -------------------
-
 - [Overview consumer credit risk assessment](#Overview consumer credit risk assessment)
   - [1. Credit Scoring Datasets](#1. Credit Scoring Datasets)
-  -  [2. Analytical framework](#2. Analytical framework)
+  - [2. Analytical framework](#2. Analytical framework)
     - [2.1 classification algorithm](#2.1 classification algorithm)
   
 
