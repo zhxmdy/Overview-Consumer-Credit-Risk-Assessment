@@ -51,7 +51,7 @@
 | Number     |    Title | Year  |
 | :-------- | :--------| :--: |
 |1	|Reject inference applied to logistic regression for credit scoring|	1993|
-|2	|Neural network credit scoring models|	2000
+|2	|Neural network credit scoring models|	2000[[paper]](https://doi.org/10.1016/j.asoc.2015.11.037)|
 |3	|A case-based approach using inductive indexing for corporate bond rating|	2001|
 |4	|Credit scoring using the hybrid neural discriminant technique|	2002|
 |5	|Credit risk assessment using a multicriteria hierarchical discrimination approach: A comparative analysis	|2002|
