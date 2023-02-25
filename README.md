@@ -26,6 +26,7 @@
  BankFear dataset. URL: https://www.kaggle.com/codenamekash/bank-fears-loanliness  
  Bank Loan Status Dataset. URL: https://www.kaggle.com/zaurbegiev/my-dataset  
  ProsperLoan Dataset. URL: https://www.kaggle.com/datasets/yousuf28/prosper-loan  
+ FICO XDS Credit Bureau Data: URL: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
 **Competition:**  
  PAKDD2009: Data mining competition. URL: https://github.com/JLZml/Credit-Scoring-Data-Sets  
