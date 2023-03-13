@@ -43,12 +43,7 @@
 
 ## 2. Analytical framework
 
-### 2.1 classification algorithm
-![](https://github.com/zhxmdy/Overview-Consumer-Credit-Risk-Assessment/blob/main/figure/classification%20algorithm.svg)
-### 2.2 data traits
-![](https://github.com/zhxmdy/Overview-Consumer-Credit-Risk-Assessment/blob/main/figure/data%20traits.svg)
-### 2.3 learning methods
-![](https://github.com/zhxmdy/Overview-Consumer-Credit-Risk-Assessment/blob/main/figure/learning%20methods.svg)
+
 ## 3. Statistical articles database(publications in general findings)
 
 | Number     |    Title | Year  |
