@@ -44,7 +44,7 @@
 ## 2. Analytical framework
 
 
-| Number |Book Group Authors	Author Full Names	|Article Title	Source Title|	Publication Year	|DOI Link|
+| Number |Book Group Authors	Author Full Names	|Article Title|	Source Title|	Publication Year	|DOI Link|
 | :-------- | :--------| :--------| :--------|:--: |:--------|
 |1	|Gong, Ping; Gao, Junguang; Wang, Li	|A Hybrid Evolutionary Under-sampling Method for Handling the Class Imbalance Problem with Overlap in Credit Classification	|JOURNAL OF SYSTEMS SCIENCE AND SYSTEMS ENGINEERING	|2022	|http://dx.doi.org/10.1007/s11518-022-5545-5|
 |2	|Kang, Yanzhe; Chen, Liao; Jia, Ning; Wei, Wei; Deng, Jiang; Qian, Haizhang	|A CWGAN-GP-based multi-task learning model for consumer credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.eswa.2022.117650|
@@ -327,4 +327,3 @@
 |279	|Baesens, B; Setiono, R; Mues, C; Vanthienen, J	|Using neural network rule extraction and decision tables for credit-risk evaluation	|MANAGEMENT SCIENCE	|2003	|http://dx.doi.org/10.1287/mnsc.49.3.312.12739|
 |280	|Lee, TS; Chiu, CC; Lu, CJ; Chen, IF	|Credit scoring using the hybrid neural discriminant technique	|EXPERT SYSTEMS WITH APPLICATIONS	|2002	|http://dx.doi.org/10.1016/S0957-4174(02)00044-1|
 |281	|Doumpos, M; Kosmidou, K; Baourakis, G; Zopounidis, C	|Credit risk assessment using a multicriteria hierarchical discrimination approach: A comparative analysis	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2002	|http://dx.doi.org/10.1016/S0377-2217(01)00254-5|
-![image](https://github.com/zhxmdy/Overview-Consumer-Credit-Risk-Assessment/assets/39161729/cfc6c2dc-ad29-42a5-ad87-749b06749759)
