@@ -44,268 +44,287 @@
 ## 2. Analytical framework
 
 
-## 3. Statistical articles database(publications in general findings)
-
-| Number     |    Title | Year  |
-| :-------- | :--------| :--: |
-|1	|Reject inference applied to logistic regression for credit scoring|	1993|
-|2	|Neural network credit scoring models|	2000|
-|3	|A case-based approach using inductive indexing for corporate bond rating|	2001|
-|4	|Credit scoring using the hybrid neural discriminant technique|	2002|
-|5	|Credit risk assessment using a multicriteria hierarchical discrimination approach: A comparative analysis	|2002|
-|6	|Benchmarking state-of-the-art classification algorithms for credit scoring	|2003|
-|7	|Using neural network rule extraction and decision tables for credit-risk evaluation|	2003|
-|8	|Sample selection bias in credit scoring models|	2003|
-|9	|Hybrid mining approach in the design of credit scoring models	|2005|
-|10	|A new fuzzy support vector machine to evaluate credit risk|	2005|
-|11	|A two-stage hybrid credit scoring model using artificial neural networks and multivariate adaptive regression splines	|2005|
-|12	|Building credit scoring models using genetic programming	|2005|
-|13	|A comparative study of data mining methods in consumer loans credit scoring management|	2006|
-|14	|Two-stage genetic programming (2SGP) for the credit scoring model	|2006|
-|15|	Using adaptive learning in credit scoring to estimate take-up probability distribution	|2006|
-|16	|The evaluation of consumer loans using support vector machines	|2006|
-|17	|Mining the customer credit using classification and regression tree and multivariate adaptive regression splines	|2006|
-|18	|Model combination for credit risk assessment: A stacked generalization approach	|2007|
-|19	|Inferring descriptive and approximate fuzzy rules for credit scoring using evolutionary algorithms	|2007|
-|20|	Reject inference, augmentation, and sample selection	|2007|
-|21|	Credit scoring with a data mining approach based on support vector machines	|2007|
-|22	|Adaptive credit scoring with kernel learning methods	|2007|
-|23	|Building contextual classifiers by integrating fuzzy rule based classification technique and k-nn method for credit scoring	|2007|
-|24	|Recent developments in consumer credit risk assessment|	2007|
-|25	|Comprehensible credit scoring models using rule extraction from support vector machines|	2007|
-|26	|Credit risk assessment with a multistage neural network ensemble learning approach	|2008|
-|27	|From dynamic classifier selection to dynamic ensemble selection	|2008|
-|28	|Constructing a reassigning credit scoring model|	2009|
-|29	|Credit scoring with macroeconomic variables using survival analysis	|2009|
-|30	|Credit scoring algorithm based on link analysis ranking with support vector machine|	2009|
-|31	|Genetic programming for credit scoring: The case of Egyptian public sector banks	|2009|
-|32	|Consumer credit scoring models with limited data	|2009|
-|33	|an intelligent-agent-based fuzzy group decision making model for financial multicriteria decision support: The case of credit scoring|	2009|
-|34	|Credit scoring using support vector machines with direct search for parameters selection|	2009|
-|35	|Vertical bagging decision trees model for credit scoring	|2010|
-|36	|A data driven ensemble classifier for credit scoring analysis	|2010|
-|37	|Domain-Driven Classification Based on Multiple Criteria and Multiple Constraint-Level Programming for Intelligent Credit Scoring	|2010|
-|38	|Credit scoring for profitability objectives	|2010|
-|39	|Multiple classifier application to credit risk assessment|	2010|
-|40	|Support vector machine based multiagent ensemble learning for credit risk evaluation|	2010|
-|41	|Credit rating by hybrid machine learning techniques	|2010|
-|42	|Effects of missing data in credit risk scoring. A comparative analysis of methods to achieve robustness in the absence of sufficient data|	2010|
-|43	|Subagging for credit scoring models|	2010|
-|44	|A hybrid neural network approach for credit scoring	|2011|
-|45	|Credit risk evaluation with kernel-based affine subspace nearest points learning method	|2011|
-|46	|Neighborhood rough set and SVM based hybrid credit scoring classifier|	2011|
-|47	|A comparative assessment of ensemble learning for credit scoring|	2011|
-|48	|Artificial metaplasticity neural network applied to credit scoring	|2011|
-|49	|Multiple classifier architectures and their application to credit risk assessment	|2011|
-|50	|Credit risk evaluation using neural networks: Emotional versus conventional models	|2011|
-|51	|Credit risk evaluation using a weighted least squares SVM classifier with design of experiment for parameter selection	|2011|
-|52	|Mixture cure models in credit scoring: If and when borrowers default|	2012|
-|53	|A Bayesian latent variable model with classification and regression tree approach for behavior and credit scoring	|2012|
-|54	|An experimental comparison of classification algorithms for imbalanced credit scoring data sets	|2012|
-|55	|Hybrid system with genetic algorithm and artificial neural networks and its application to retail credit risk assessment|	2012|
-|56	|A case-based reasoning model that uses preference theory functions for credit scoring	|2012|
-|57	|Evolution strategy based adaptive L-q penalty support vector machines with Gauss kernel for credit risk analysis	|2012|
-|58	|Bound and collapse Bayesian reject inference for credit scoring|	2012|
-|59	|Two credit scoring models based on dual strategy ensemble trees	|2012|
-|60	|Two-level classifier ensembles for credit risk assessment|	2012|
-|61	|Rough set and scatter search metaheuristic based feature selection for credit scoring	|2012|
-|62	|Instance sampling in credit scoring: An empirical study of sample size and balancing	|2012|
-|63	|Relevance vector machine based infinite decision agent ensemble learning for credit risk analysis	|2012|
-|64	|An artificial immune classifier for credit scoring analysis|	2012|
-|65	|Machine Learning in Financial Crisis Prediction: A Survey|	2012|
-|66	|Customer credit scoring based on HMM/GMDH hybrid model	|2013|
-|67	|Using semi-supervised classifiers for credit scoring|	2013|
-|68	|Reject inference in consumer credit scoring with nonignorable missing data|	2013|
-|69	|On the suitability of resampling techniques for the class imbalance problem in credit scoring|	2013|
-|70	|Orthogonal support vector machine for credit scoring	|2013|
-|71	|An application of locally linear model tree algorithm with combination of feature selection in credit scoring|	2014|
-|72	|Genetic algorithm-based heuristic for feature selection in credit risk assessment	|2014|
-|73	|Development and application of consumer credit scoring models using profit-based V classification measures	|2014|
-|74	|Credit risk evaluation using multi-criteria optimization classifier with kernel, fuzzification and penalty factors	|2014|
-|75	|Combining cluster analysis with classifier ensembles to predict financial distress	|2014|
-|76	|A transfer learning based classifier ensemble model for customer credit scoring	|2014|
-|77	|Classification Restricted Boltzmann Machine for comprehensible credit scoring model	|2015|
-|78	|A hybrid data mining model of feature selection algorithms and ensemble learning classifiers for credit scoring	|2015|
-|79	|Investigation and improvement of multi-layer perceptron neural networks for credit scoring	|2015|
-|80	|Credit scoring using the clustered support vector machine	|2015|
-|81	|Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research	|2015|
-|82	|Enhancing accuracy and interpretability of ensemble strategies in credit risk assessment. A correlated-adjusted decision forest proposal|	2015|
-|83	|Spline based survival model for credit risk modeling|	2016|
-|84	|A new hybrid ensemble credit scoring model based on classifiers consensus system approach|	2016|
-|85	|Classifiers consensus system approach for credit scoring|	2016|
-|86	|A Clustering and Selection Based Transfer Ensemble Model for Customer Credit Scoring	|2016|
-|87	|Ensemble classification based on supervised clustering for credit scoring	|2016|
-|88	|The use of profit scoring as an alternative to credit scoring systems in peer-to-peer (P2P) lending	|2016|
-|89	|Credit Scoring with Social Network Data|	2016|
-|90	|A social and environmental approach to microfinance credit scoring|	2016|
-|91	|From Footprint to Evidence: An Exploratory Study of Mining Social Data for Credit Scoring|	2016|
-|92	|An ELM-based Classification Algorithm with Optimal Cutoff Selection for Credit Risk Assessment|	2016|
-|93	|A novel multistage deep belief network based extreme learning machine ensemble learning paradigm for credit risk assessment|	2016|
-|94	|Financial credit risk assessment: a recent review	|2016|
-|95	|A multi-objective genetic optimization for fast, fuzzy rule-based credit classification with balanced accuracy and interpretability|	2016|
-|96	|A new dynamic modeling framework for credit risk assessment	|2016|
-|97	|Application of a rule extraction algorithm family based on the Re-RX algorithm to financial credit risk assessment from a Pareto optimal perspective|	2016|
-|98	|Reject inference in credit scoring using Semi-supervised Support Vector Machines	|2017|
-|99	|A comparative study on base classifiers in ensemble methods for credit scoring|	2017|
-|100	|Improve credit scoring using transfer of learned knowledge from self-organizing map	|2017|
-|101	|A boosted decision tree approach using Bayesian hyper-parameter optimization for credit scoring	|2017|
-|102	|Extreme learning machines for credit scoring: An empirical evaluation	|2017|
-|103	|Integrated framework for profit-based feature selection and SVM classification in credit scoring	|2017|
-|104	|Cost-based feature selection for Support Vector Machines: An application in credit scoring|	2017|
-|105	|Time to default in credit scoring using survival analysis: a benchmark study	|2017|
-|106	|Predicting and Deterring Default with Social Media Information in Peer-to-Peer Lending	|2017|
-|107	|Incorporating heterogeneity and macroeconomic variables into multi-state delinquency models for credit cards|	2018|
-|108	|A novel ensemble method for credit scoring: Adaption of different imbalance ratios|	2018|
-|109	|A new approach for reject inference in credit scoring using kernel-free fuzzy quadratic surface support vector machines	|2018|
-|110	|On Ensemble SSL Algorithms for Credit Scoring Problem	|2018|
-|111	|Dynamic ensemble classification for credit scoring using soft probability|	2018|
-|112	|A novel heterogeneous ensemble credit scoring model based on bstacking approach|	2018|
-|113	|Classifier selection and clustering with fuzzy assignment in ensemble model for credit scoring|	2018|
-|114	|High Accuracy-priority Rule Extraction for Reconciling Accuracy and Interpretability in Credit Scoring	|2018|
-|115	|Information gain directed genetic algorithm wrapper feature selection for credit rating	|2018|
-|116	|A rejection inference technique based on contrastive pessimistic likelihood estimation for P2P lending	|2018|
-|117|	Multiple instance learning for credit risk assessment with transaction data	|2018|
-|118	|An improved SMO algorithm for financial credit risk assessment - Evidence from China's banking	|2018|
-|119	|Improved Credit Scoring Model Based on Bagging Neural Network	|2018|
-|120	|Loan default prediction by combining soft information extracted from descriptive text in online peer-to-peer lending|	2018|
-|121	|A new aspect on P2P online lending default prediction using meta-level phone usage data in China	|2018|
-|122	|A DBN-based resampling SVM ensemble learning paradigm for credit classification with imbalanced data	|2018|
-|123	|Incorporating heterogeneity and macroeconomic variables into multi-state delinquency models for credit cards	|2018|
-|124	|A hybrid system with filter approach and multiple population genetic algorithm for feature selection in credit scoring	|2018|
-|125	|A Novel behavioral scoring model for estimating probability of default over time in peer-to-peer lending	|2018|
-|126	|A Gaussian mixture model based combined resampling algorithm for classification of imbalanced credit data sets	|2019|
-|127	|A novel ensemble classification model based on neural networks and a classifier optimisation technique for imbalanced credit risk evaluation|	2019|
-|128|	A novel multi-stage hybrid model with enhanced multi-population niche genetic algorithm: An application in credit scoring	|2019|
-|129	|Integration of unsupervised and supervised machine learning algorithms for credit risk assessment	|2019|
-|130	|Rule-based credit risk assessment model using multi-objective evolutionary algorithms|	2019|
-|131	|Two-stage consumer credit risk modelling using heterogeneous ensemble learning|	2019|
-|132	|Sparse multi-criteria optimization classifier for credit risk evaluation	|2019|
-|133|	KLN, a new biological koniocortex based unsupervised neural network: competitive results on credit scoring|	2019|
-|134	|Dynamic weighted ensemble classification for credit scoring using Markov Chain	|2019|
-|135	|Generalized fuzzy soft sets theory-based novel hybrid ensemble credit scoring model	|2019|
-|136	|A novel multi-objective particle swarm optimization for comprehensible credit scoring	|2019|
-|137|	Application of new deep genetic cascade ensemble of SVM classifiers to predict the Australian credit scoring	|2019|
-|138|	A multi-objective approach for profit-driven feature selection in credit scoring	|2019|
-|139|	Using reinforcement learning to optimize the acceptance threshold of a credit scoring model|	2019|
-|140	|A Deep Learning Approach for Credit Scoring of Peer-to-Peer Lending Using Attention Mechanism LSTM	|2019|
-|141	|The value of big data for credit scoring: Enhancing financial inclusion using mobile phone data and social network analytics	|2019|
-|142|	A new algorithm of modified binary particle swarm optimization based on the Gustafson-Kessel for credit risk assessment	|2019|
-|143|	Profit-based credit scoring based on robust optimization and feature selection	|2019
-|144|	Novel evolutionary multi-objective soft subspace clustering algorithm for credit risk assessment	|2019|
-|145|	An ensemble semi-supervised learning method for predicting defaults in social lending	|2019|
-|146|	Transfer learning-based default prediction model for consumer credit in China	|2019|
-|147|	Default prediction in P2P lending from high-dimensional data based on machine learning	|2019|
-|148|	Wide and deep learning for peer-to-peer lending	|2019|
-|149|	Modified Average of the Base-Level Models in the Hill-Climbing Bagged Ensemble Selection Algorithm for Credit Scoring	|2019|
-|150|	Credit Risk Assessment from Combined Bank Records using Federated Learning	|2019|
-|151|	A deep learning approach using DeepGBM for credit assessment	|2019|
-|152|A prediction-driven mixture cure model and its application in credit scoring|2019|
-|153|	A Deep Learning Based Online Credit Scoring Model for P2P Lending|	2020|
-|154|	Evolutionary Extreme Learning Machine with novel activation function for credit scoring	|2020|
-|155|	A novel approach to define the local region of dynamic selection techniques in imbalanced credit scoring problems	|2020|
-|156	|A novel dynamic ensemble selection classifier for an imbalanced data set: An application for credit risk assessment	|2020 [[code]](https://github.com/Menelau/DESlib.)|
-|157|	Deep generative models for reject inference in credit scoring	|2020|
-|158	|New hybrid data mining model for credit scoring based on feature selection algorithm and ensemble classifiers	|2020|
-|159	|Resampling ensemble model based on data distribution for imbalanced credit risk evaluation in P2P lending	|2020|
-|160|	Lessons learned from data stream classification applied to credit scoring	|2020|
-|161	|Unsupervised quadratic surface support vector machine with application to credit risk assessment	|2020|
-|162	|Data Cleaning for Personal Credit Scoring by Utilizing Social Media Data: An Empirical Study	|2020|
-|163	|Multivariable data imputation for the analysis of incomplete credit data	|2020|
-|164	|Generative adversarial fusion network for class imbalance credit scoring	|2020|
-|165	|Can machine learning paradigm improve attribute noise problem in credit risk classification?	|2020|
-|166	|A cost-sensitive logistic regression credit scoring model based on multi-objective optimization approach	|2020|
-|167	|Cost-sensitive semi-supervised selective ensemble model for customer credit scoring	|2020|
-|168	|A combined entropy-based approach for a proactive credit scoring	|2020|
-|169|	Three-stage reject inference learning framework for credit scoring using unsupervised transfer learning and three-way decision theory	|2020|
-|170|	Statistical and machine learning models in credit scoring: A systematic literature survey	|2020|
-|171|	Predicting loan default in peer-to-peer lending using narrative data	|2020|
-|172	|A novel tree-based dynamic heterogeneous ensemble method for credit scoring	|2020|
-|173	|Corporate and personal credit scoring via fuzzy non-kernel SVM with fuzzy within-class scatter	|2020|
-|174|	DGHNL: A new deep genetic hierarchical network of learners for prediction of credit scoring	|2020|
-|175	|A study on credit scoring modeling with different feature selection and machine learning approaches|	2020|
-|176	|A Bolasso based consistent feature selection enabled random forest classification algorithm: An application to credit risk assessment	|2020|
-|177|	2-stage modified random forest model for credit risk assessment of P2P network lending to Three Rurals borrowers|	2020|
-|178|	Cost-sensitive multiple-instance learning method with dynamic transactional data for personal credit scoring	|2020|
-|179|	Analyzing credit risk among Chinese P2P-lending businesses by integrating text-related soft information	|2020|
-|180	|A novel dual-weighted fuzzy proximal support vector machine with application to credit risk analysis	|2020|
-|181	|Multi-view ensemble learning based on distance-to-model and adaptive clustering for imbalanced credit risk assessment in P2P lending	|2020|
-|182	|Forecasting peer-to-peer platform default rate with LSTM neural network	|2020|
-|183|	Credit risk evaluation model with textual features from loan descriptions for P2P lending	|2020|
-|184	|Mining Semantic Soft Factors for Credit Risk Evaluation in Peer-to-Peer Lending	|2020|
-|185|	DESlib: A Dynamic ensemble selection library in Python	|2020|
-|186	|Domain Adaptation Learning Based on Structural Similarity Weighted Mean Discrepancy for Credit Risk Classification	|2020|
-|187|	Structured Feature Derivation for Transfer Learning on Credit Scoring	|2020|
-|188|	A Vertical Federated Learning Method for Interpretable Scorecard and Its Application in Credit Scoring	|2020|
-|189	|A heterogeneous ensemble credit scoring model based on adaptive classifier selection: An application on imbalanced data	|2021|
-|190|	A new non-kernel quadratic surface approach for imbalanced data classification in online credit scoring|	2021|
-|191|	A conservative approach for online credit scoring*	|2021|
-|192	|Incorporating multilevel macroeconomic variables into credit scoring for online consumer lending	|2021|
-|193	|Impact of resampling methods and classification models on the imbalanced credit scoring problems|	2021|
-|194|	Bayesian Network Oriented Transfer Learning Method for Credit Scoring Model	|2021|
-|195|	A novel multi-stage ensemble model with enhanced outlier adaptation for credit scoring	|2021|
-|196|	A new hybrid ensemble model with voting-based outlier detection and balanced sampling for credit scoring|	2021|
-|197|	A Novel Method for Credit Scoring Based on Cost-Sensitive Neural Network Ensemble	|2021|
-|198|	Deep learning for credit scoring: Do or don't?	|2021|
-|199|	A multi-level classification and modified PSO clustering based ensemble approach for credit scoring	|2021|
-|200	|Enhancing credit scoring with alternative data	|2021|
-|201|	Making Deep Learning-Based Predictions for Credit Scoring Explainable	|2021|
-|202|	A novel dynamic credit risk evaluation method using data envelopment analysis with common weights and combination of multi-attribute decision-making methods	|2021|
-|203	|Conditional Wasserstein GAN-based oversampling of tabular data for imbalanced learning	|2021 [[code]](https://github.com/justinengelmann/GANbasedOversampling)|
-|204|	Step-wise multi-grained augmented gradient boosting decision trees for credit scoring	|2021|
-|205|	A high-dimensionality-trait-driven learning paradigm for high dimensional credit classification	|2021|
-|206|	A benchmark of machine learning approaches for credit score prediction	|2021|
-|207|	Reject inference methods in credit scoring	|2021|
-|208|	An Automatic Credit Scoring Strategy (ACSS) using memetic evolutionary algorithm and neural architecture search	|2021|
-|209	|Graph convolutional network-based credit default prediction utilizing three types of virtual distances among borrowers	|2021|
-|210|	A predictive intelligence system of credit scoring based on deep multiple kernel learning|	2021|
-|211	|A graph-based semi-supervised reject inference framework considering imbalanced data distribution for consumer credit scoring	|2021 [[code]](https://github.com/yzkang/graph-based-semi-supervised-reject-inference-framework)|
-|212	|A dynamic credit scoring model based on survival gradient boosting decision tree approach	|2021
-|213|	A new deep learning ensemble credit risk evaluation model with an improved synthetic minority oversampling technique	|2021|
-|214|	Robust cost-sensitive kernel method with Blinex loss and its applications in credit risk evaluation|	2021|
-|215|	A novel hybrid ensemble model based on tree-based method and deep learning method for default prediction	|2021|
-|216|	A deep metric learning approach for weakly supervised loan default prediction|	2021|
-|217|	Can small sample dataset be used for efficient internet loan credit risk assessment? Evidence from online peer to peer lending	|2021|
-|218|	A machine learning approach combining expert knowledge with genetic algorithms in feature selection for credit risk assessment	|2021|
-|219	|Multilayer network analysis for improved credit risk prediction|	2021|
-|220	|A Vertical Federated Learning Method For Multi-Institutional Credit Scoring: MICS	|2021|
-|221	|A novel method for credit scoring based on feature transformation and ensemble model	|2021|
-|222|	Default prediction of online credit loans based on mobile application usage behaviors	|2022|
-|223	|BACS: blockchain and AutoML-based technology for efficient credit scoring classification	|2022|
-|224	|Novel hybrid ensemble credit scoring model with stacking-based noise detection and weight assignment	|2022|
-|225	|Assessing credit risk of commercial customers using hybrid machine learning algorithms	|2022|
-|226	|Generating customer's credit behavior with deep generative models|	2022|
-|227	|Two-stage credit scoring using Bayesian approach	|2022|
-|228|	Deep learning meets decision trees: An application of a heterogeneous deep forest approach in credit scoring for online consumer lending|	2022|
-|229|	Credit scoring by one-class classification driven dynamical ensemble learning|	2022|
-|230|	Multi-grained and multi-layered gradient boosting decision tree for credit scoring|	2022|
-|231	|Gradient boosting survival tree with applications in credit scoring|	2022|
-|232	|Reject inference in credit scoring using a three-way decision and safe semi-supervised support vector machine	|2022|
-|233|	Machine learning for credit scoring: Improving logistic regression with non-linear decision-tree effects	|2022|
-|234	|Transparency, auditability, and explainability of machine learning models in credit scoring	|2022|
-|235	|Credit scoring based on tree-enhanced gradient boosting decision trees|	2022|
-|236	|An uncertainty-oriented cost-sensitive credit scoring framework with multi-objective feature selection	|2022|
-|237|	Cost-sensitive learning for profit-driven credit scoring	|2022|
-|238|	An Online Transfer Learning Framework With Extreme Learning Machine for Automated Credit Scoring|	2022|
-|239|	A CWGAN-GP-based multi-task learning model for consumer credit scoring|	2022|
-|240|	Deep reinforcement learning with the confusion-matrix-based dynamic reward function for customer credit scoring|	2022|
-|241	|An extreme learning machine based virtual sample generation method with feature engineering for credit risk assessment with data scarcity	|2022|
-|242|	Integrating data augmentation and hybrid feature selection for small sample credit risk assessment with high dimensionality	|2022|
-|243|	Multiple imputation method of missing credit risk assessment data based on generative adversarial networks	|2022|
-|244|	A two-stage hybrid credit risk prediction model based on XGBoost and graph-based deep neural network	|2022|
-|245|	Sequential optimization three-way decision model with information gain for credit default risk evaluation	|2022|
-|246|	Improved hybrid resampling and ensemble model for imbalance learning and credit evaluation|	2022|
-|247	|Missing Data Preprocessing in Credit Classification: One-Hot Encoding or Imputation?	|2022|
-|248|	Joint models for longitudinal and discrete survival data in credit scoring|	2022|
-|249|	Credit default prediction from user-generated text in peer-to-peer lending using deep learning	|2022|
-|250|	A focal-aware cost-sensitive boosted tree for imbalanced credit scoring|	2022|
-|251|	Tree-based heterogeneous cascade ensemble model for credit scoring	|2022|
-|252|	Application of the VNS heuristic for feature selection in credit scoring problems	|2022|
-|253	|A privacy-preserving decentralized credit scoring method based on multi-party information	|2022|
-|254|	Multiple objective metaheuristics for feature selection based on stakeholder requirements in credit scoring	|2022|
-|255|	PsyCredit: An interpretable deep learning-based credit assessment approach facilitated by psychometric natural language processing	|2022|
-|256	|RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring	|2022|
-|257|Fairness in credit scoring: Assessment, implementation and profit implications|2022 [[code]](https://github.com/kozodoi/Fair_Credit_Scoring)|
-|258|	Benchmarking state-of-the-art imbalanced data learning approaches for credit scoring	|2023|
-|259	|An ensemble credit scoring model based on logistic regression with heterogeneous balancing and weighting effects	|2023|
-|260|	Bagging Supervised Autoencoder Classifier for credit scoring	|2023|
-|261	|Optimal cost-sensitive credit scoring using a new hybrid performance metric	|2023|
+| Number |Book Group Authors	Author Full Names	|Article Title	Source Title|	Publication Year	|DOI Link|
+| :-------- | :--------| :--------|:--: |:--------|
+|1	|Gong, Ping; Gao, Junguang; Wang, Li	|A Hybrid Evolutionary Under-sampling Method for Handling the Class Imbalance Problem with Overlap in Credit Classification	|JOURNAL OF SYSTEMS SCIENCE AND SYSTEMS ENGINEERING	|2022	|http://dx.doi.org/10.1007/s11518-022-5545-5|
+|2	|Kang, Yanzhe; Chen, Liao; Jia, Ning; Wei, Wei; Deng, Jiang; Qian, Haizhang	|A CWGAN-GP-based multi-task learning model for consumer credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.eswa.2022.117650|
+|3	|Kyeong, Sunghyon; Shin, Jinho	|Two-stage credit scoring using Bayesian approach	|JOURNAL OF BIG DATA	|2022	|http://dx.doi.org/10.1186/s40537-022-00665-5|
+|4	|Wang, Chongren; Xiao, Zhuoyi	|A Deep Learning Approach for Credit Scoring Using Feature Embedded Transformer	|APPLIED SCIENCES-BASEL	|2022	|http://dx.doi.org/10.3390/app122110995|
+|5	|Liu, Wanan; Fan, Hong; Xia, Min; Xia, Meng	|A focal-aware cost-sensitive boosted tree for imbalanced credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.eswa.2022.118158|
+|6	|Xia, Yufei; Guo, Xinyi; Li, Yinguo; He, Lingyun; Chen, Xueyuan	|Deep learning meets decision trees: An application of a heterogeneous deep forest approach in credit scoring for online consumer lending	|JOURNAL OF FORECASTING	|2022	|http://dx.doi.org/10.1002/for.2891|
+|7	|Zhao, Feng; Lu, Yan; Li, Xinning; Wang, Lina; Song, Yingjie; Fan, Deming; Zhang, Caiming; Chen, Xiaobo	|Multiple imputation method of missing credit risk assessment data based on generative adversarial networks	|APPLIED SOFT COMPUTING	|2022	|http://dx.doi.org/10.1016/j.asoc.2022.109273|
+|8	|Zhang, Xiaoming; Yu, Lean; Yin, Hang; Lai, Kin Keung	|Integrating data augmentation and hybrid feature selection for small sample credit risk assessment with high dimensionality	|COMPUTERS & OPERATIONS RESEARCH	|2022	|http://dx.doi.org/10.1016/j.cor.2022.105937|
+|9	|Shen, Feng; Zhang, Xin; Wang, Run; Lan, Dao; Zhou, Wei	|Sequential optimization three-way decision model with information gain for credit default risk evaluation	|INTERNATIONAL JOURNAL OF FORECASTING	|2022	|http://dx.doi.org/10.1016/j.ijforecast.2021.12.011|
+|10	|Hjelkrem, Lars Ole; de Lange, Petter Eilif; Nesset, Erik	|An end-to-end deep learning approach to credit scoring using CNN plus XGBoost on transaction data	|JOURNAL OF RISK MODEL VALIDATION	|2022	|http://dx.doi.org/10.21314/JRMV.2022.018|
+|11	|Shen, Feng; Yang, Zhiyuan; Zhao, Xingchao; Lan, Dao	|Reject inference in credit scoring using a three-way decision and safe semi-supervised support vector machine	|INFORMATION SCIENCES	|2022	|http://dx.doi.org/10.1016/j.ins.2022.05.067|
+|12	|Wu, Yiqiong; Huang, Wei; Tian, Yingjie; Zhu, Qing; Yu, Lean	|An uncertainty-oriented cost-sensitive credit scoring framework with multi-objective feature selection	|ELECTRONIC COMMERCE RESEARCH AND APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.elerap.2022.101155|
+|13	|Kriebel, Johannes; Stitz, Lennart	|Credit default prediction from user-generated text in peer-to-peer lending using deep learning	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2022	|http://dx.doi.org/10.1016/j.ejor.2021.12.024|
+|14	|Jadwal, Pankaj Kumar; Pathak, Sunil; Jain, Sonal	|Analysis of clustering algorithms for credit risk evaluation using multiple correspondence analysis	|MICROSYSTEM TECHNOLOGIES-MICRO-AND NANOSYSTEMS-INFORMATION STORAGE AND PROCESSING SYSTEMS	|2022	|http://dx.doi.org/10.1007/s00542-022-05310-y|
+|15	|Bueff, Andreas C.; Cytrynski, Mateusz; Calabrese, Raffaella; Jones, Matthew; Roberts, John; Moore, Jonathon; Brown, Iain	|Machine learning interpretability for a stress scenario generation in credit scoring based on counterfactuals	|EXPERT SYSTEMS WITH APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.eswa.2022.117271|
+|16	|Yu, Lean; Zhang, Xiaoming; Yin, Hang	|An extreme learning machine based virtual sample generation method with feature engineering for credit risk assessment with data scarcity	|EXPERT SYSTEMS WITH APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.eswa.2022.117363|
+|17	|Mushava, Jonah; Murray, Michael	|A novel XGBoost extension for credit scoring class-imbalanced data combining a generalized extreme value link and a modified focal loss function	|EXPERT SYSTEMS WITH APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.eswa.2022.117233|
+|18	|Zhang, Anqin; Peng, Baicheng; Chen, Jingjing; Liu, Qingfu; Jiang, Shibo; Zhou, Youmei	|A ResNet-LSTM Based Credit Scoring Approach for Imbalanced Data	|MOBILE INFORMATION SYSTEMS	|2022	|http://dx.doi.org/10.1155/2022/9103437|
+|19	|Wang, Yadong; Jia, Yanlin; Tian, Yuhang; Xiao, Jin	|Deep reinforcement learning with the confusion-matrix-based dynamic reward function for customer credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.eswa.2022.117013|
+|20	|Yao, Jianrong; Wang, Zhongyi; Wang, Lu; Liu, Meng; Jiang, Hui; Chen, Yuangao	|Novel hybrid ensemble credit scoring model with stacking-based noise detection and weight assignment	|EXPERT SYSTEMS WITH APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.eswa.2022.116913|
+|21	|Simumba, Naomi; Okami, Suguru; Kodaka, Akira; Kohtake, Naohiko	|Multiple objective metaheuristics for feature selection based on stakeholder requirements in credit scoring	|DECISION SUPPORT SYSTEMS	|2022	|http://dx.doi.org/10.1016/j.dss.2021.113714|
+|22	|Liu, Jiaming; Zhang, Sicheng; Fan, Haoyue	|A two-stage hybrid credit risk prediction model based on XGBoost and graph-based deep neural network	|EXPERT SYSTEMS WITH APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.eswa.2022.116624|
+|23	|Yang, Fan; Qiao, Yanan; Qi, Yong; Bo, Junge; Wang, Xiao	|BACS: blockchain and AutoML-based technology for efficient credit scoring classification	|ANNALS OF OPERATIONS RESEARCH	|2022	|http://dx.doi.org/10.1007/s10479-022-04531-8|
+|24	|Ala'raj, Maher; Abbod, Maysam F.; Majdalawieh, Munir; Jum'a, Luay	|A deep learning model for behavioural credit scoring in banks	|NEURAL COMPUTING & APPLICATIONS	|2022	|http://dx.doi.org/10.1007/s00521-021-06695-z|
+|25	|Alasbahi, Rana; Zheng, Xiaolin	|An Online Transfer Learning Framework With Extreme Learning Machine for Automated Credit Scoring	|IEEE ACCESS	|2022	|http://dx.doi.org/10.1109/ACCESS.2022.3171569|
+|26	|He, Fang; Zhang, Wenyu; Yan, Zhijia	|A novel multi-stage ensemble model for credit scoring based on synthetic sampling and feature transformation	|JOURNAL OF INTELLIGENT & FUZZY SYSTEMS	|2022	|http://dx.doi.org/10.3233/JIFS-211467|
+|27	|Wang, Lu	|Imbalanced credit risk prediction based on SMOTE and multi-kernel FCM improved by particle swarm optimization	|APPLIED SOFT COMPUTING	|2022	|http://dx.doi.org/10.1016/j.asoc.2021.108153|
+|28	|Xu, Meiling; Tian, Boping; Fu, Yongqiang	|Default prediction of online credit loans based on mobile application usage behaviors	|JOURNAL OF INTELLIGENT & FUZZY SYSTEMS	|2022	|http://dx.doi.org/10.3233/JIFS-211825|
+|29	|Yao, Jianrong; Wang, Zhongyi; Wang, Lu; Zhang, Zhebin; Jiang, Hui; Yan, Surong	|A hybrid model with novel feature selection method and enhanced voting method for credit scoring	|JOURNAL OF INTELLIGENT & FUZZY SYSTEMS	|2022	|http://dx.doi.org/10.3233/JIFS-211828|
+|30	|Zou, Yao; Gao, Changchun; Xia, Meng; Pang, Congyuan	|Credit scoring based on a Bagging-cascading boosted decision tree	|INTELLIGENT DATA ANALYSIS	|2022	|http://dx.doi.org/10.3233/IDA-216228|
+|31	|Wang, Tianhui; Liu, Renjing; Qi, Guohua	|Multi-classification assessment of bank personal credit risk based on multi-source information fusion	|EXPERT SYSTEMS WITH APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.eswa.2021.116236|
+|32	|Dumitrescu, Elena; Hue, Sullivan; Hurlin, Christophe; Tokpavi, Sessi	|Machine learning for credit scoring: Improving logistic regression with non-linear decision-tree effects	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2022	|http://dx.doi.org/10.1016/j.ejor.2021.06.053|
+|33	|Liu, Wanan; Fan, Hong; Xia, Meng	|Credit scoring based on tree-enhanced gradient boosting decision trees	|EXPERT SYSTEMS WITH APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.eswa.2021.116034|
+|34	|Xia, Yufei; Li, Yinguo; He, Lingyun; Xu, Yixin; Meng, Yiqun	|Incorporating multilevel macroeconomic variables into credit scoring for online consumer lending	|ELECTRONIC COMMERCE RESEARCH AND APPLICATIONS	|2021	|http://dx.doi.org/10.1016/j.elerap.2021.101095|
+|35	|Cao, Wei; He, Yun; Wang, Wenjun; Zhu, Weidong; Demazeau, Yves	|Ensemble methods for credit scoring of Chinese peer-to-peer loans	|JOURNAL OF CREDIT RISK	|2021	|http://dx.doi.org/10.21314/JCR.2021.005|
+|36	|Tripathi, Diwakar; Reddy, B. Ramachandra; Shukla, Alok Kumar	|CFR: collaborative feature ranking for improving the performance of credit scoring data classification	|COMPUTING	|2022	|http://dx.doi.org/10.1007/s00607-021-01005-w|
+|37	|Liu, Wan'an; Fan, Hong; Xia, Min	|Multi-grained and multi-layered gradient boosting decision tree for credit scoring	|APPLIED INTELLIGENCE	|2022	|http://dx.doi.org/10.1007/s10489-021-02715-6|
+|38	|Oskarsdottir, Maria; Bravo, Cristian	|Multilayer network analysis for improved credit risk prediction	|OMEGA-INTERNATIONAL JOURNAL OF MANAGEMENT SCIENCE	|2021	|http://dx.doi.org/10.1016/j.omega.2021.102520|
+|39	|Singh, Indu; Kumar, Narendra; Srinivasa, K. G.; Maini, Shivam; Ahuja, Umang; Jain, Siddhant	|A multi-level classification and modified PSO clustering based ensemble approach for credit scoring	|APPLIED SOFT COMPUTING	|2021	|http://dx.doi.org/10.1016/j.asoc.2021.107687|
+|40	|Wu, Cheng-Feng; Huang, Shian-Chang; Chiou, Chei-Chang; Wang, Yu-Min	|A predictive intelligence system of credit scoring based on deep multiple kernel learning	|APPLIED SOFT COMPUTING	|2021	|http://dx.doi.org/10.1016/j.asoc.2021.107668|
+|41	|Mahbobi, Mohammad; Kimiagari, Salman; Vasudevan, Marriappan	|Credit risk classification: an integrated predictive accuracy algorithm using artificial and deep neural networks	|ANNALS OF OPERATIONS RESEARCH	|2021	|http://dx.doi.org/10.1007/s10479-021-04114-z|
+|42	|Iwai, Koichi; Akiyoshi, Masanori; Hamagami, Tomoki	|Bayesian Network Oriented Transfer Learning Method for Credit Scoring Model	|IEEJ TRANSACTIONS ON ELECTRICAL AND ELECTRONIC ENGINEERING	|2021	|http://dx.doi.org/10.1002/tee.23417|
+|43	|Tang, Jingjing; Li, Jiahui; Xu, Weiqi; Tian, Yingjie; Ju, Xuchan; Zhang, Jie	|Robust cost-sensitive kernel method with Blinex loss and its applications in credit risk evaluation	|NEURAL NETWORKS	|2021	|http://dx.doi.org/10.1016/j.neunet.2021.06.016|
+|44	|Li, Hao; Qiu, Hao; Sun, Shu; Chang, Jun; Tu, Wenting	|Credit scoring by one-class classification driven dynamical ensemble learning	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2022	|http://dx.doi.org/10.1080/01605682.2021.1944824|
+|45	|Gunnarsson, Bjorn Rafn; Broucke, Seppe vanden; Baesens, Bart; Oskarsdottir, Maria; Lemahieu, Wilfried	|Deep learning for credit scoring: Do or don't?	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2021	|http://dx.doi.org/10.1016/j.ejor.2021.03.006|
+|46	|Benyacoub, Badreddine; ElBernoussi, Souad; Zoglat, Abdelhak; Ouzineb, Mohamed	|Credit Scoring Model Based on HMM/Baum-Welch Method	|COMPUTATIONAL ECONOMICS	|2022	|http://dx.doi.org/10.1007/s10614-021-10122-9|
+|47	|Xiao, Jin; Wang, Yadong; Chen, Jing; Xie, Ling; Huang, Jing	|Impact of resampling methods and classification models on the imbalanced credit scoring problems	|INFORMATION SCIENCES	|2021	|http://dx.doi.org/10.1016/j.ins.2021.05.029|
+|48	|Li, Hongxiang; Feng, Ao; Lin, Bin; Su, Houcheng; Liu, Zixi; Duan, Xuliang; Pu, Haibo; Wang, Yifei	|A novel method for credit scoring based on feature transformation and ensemble model	|PEERJ COMPUTER SCIENCE	|2021	|http://dx.doi.org/10.7717/peerj-cs.579|
+|49	|Ehrhardt, Adrien; Biernacki, Christophe; Vandewalle, Vincent; Heinrich, Philippe; Beben, Sebastien	|Reject inference methods in credit scoring	|JOURNAL OF APPLIED STATISTICS	|2021	|http://dx.doi.org/10.1080/02664763.2021.1929090|
+|50	|Buecker, Michael; Szepannek, Gero; Gosiewska, Alicja; Biecek, Przemyslaw	|Transparency, auditability, and explainability of machine learning models in credit scoring	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2022	|http://dx.doi.org/10.1080/01605682.2021.1922098|
+|51	|Yu, Lean; Yu, Lihang; Yu, Kaitao	|A high-dimensionality-trait-driven learning paradigm for high dimensional credit classification	|FINANCIAL INNOVATION	|2021	|http://dx.doi.org/10.1186/s40854-021-00249-x|
+|52	|Bai, Miaojun; Zheng, Yan; Shen, Yun	|Gradient boosting survival tree with applications in credit scoring	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2022	|http://dx.doi.org/10.1080/01605682.2021.1919035|
+|53	|Lappas, Pantelis Z.; Yannacopoulos, Athanasios N.	|A machine learning approach combining expert knowledge with genetic algorithms in feature selection for credit risk assessment	|APPLIED SOFT COMPUTING	|2021	|http://dx.doi.org/10.1016/j.asoc.2021.107391|
+|54	|Lee, Jong Wook; Lee, Won Kyung; Sohn, So Young	|Graph convolutional network-based credit default prediction utilizing three types of virtual distances among borrowers	|EXPERT SYSTEMS WITH APPLICATIONS	|2021	|http://dx.doi.org/10.1016/j.eswa.2020.114411|
+|55	|Ashofteh, Afshin; Bravo, Jorge M.	|A conservative approach for online credit scoring*	|EXPERT SYSTEMS WITH APPLICATIONS	|2021	|http://dx.doi.org/10.1016/j.eswa.2021.114835|
+|56	|He, Hongliang; Fan, Yanli	|A novel hybrid ensemble model based on tree-based method and deep learning method for default prediction	|EXPERT SYSTEMS WITH APPLICATIONS	|2021	|http://dx.doi.org/10.1016/j.eswa.2021.114899|
+|57	|Qin, Chao; Zhang, Yunfeng; Bao, Fangxun; Zhang, Caiming; Liu, Peide; Liu, Peipei	|XGBoost Optimized by Adaptive Particle Swarm Optimization for Credit Scoring	|MATHEMATICAL PROBLEMS IN ENGINEERING	|2021	|http://dx.doi.org/10.1155/2021/6655510|
+|58	|Kang, Yanzhe; Jia, Ning; Cui, Runbang; Deng, Jiang	|A graph-based semi-supervised reject inference framework considering imbalanced data distribution for consumer credit scoring	|APPLIED SOFT COMPUTING	|2021 [[code]](https://github.com/yzkang/graph-based-semi-supervised-reject-inference-framework)|http://dx.doi.org/10.1016/j.asoc.2021.107259|
+|59	|Tian, Ye; Bian, Bo; Tang, Xiaofei; Zhou, Jing	|A new non-kernel quadratic surface approach for imbalanced data classification in online credit scoring	|INFORMATION SCIENCES	|2021	|http://dx.doi.org/10.1016/j.ins.2021.02.026|
+|60	|Zhang, Wenyu; Yang, Dongqi; Zhang, Shuai	|A new hybrid ensemble model with voting-based outlier detection and balanced sampling for credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2021	|http://dx.doi.org/10.1016/j.eswa.2021.114744|
+|61	|Moscato, Vincenzo; Picariello, Antonio; Sperli, Giancarlo	|A benchmark of machine learning approaches for credit score prediction	|EXPERT SYSTEMS WITH APPLICATIONS	|2021	|http://dx.doi.org/10.1016/j.eswa.2020.113986|
+|62	|Zhang, Wenyu; Yang, Dongqi; Zhang, Shuai; Ablanedo-Rosas, Jose H.; Wu, Xin; Lou, Yu	|A novel multi-stage ensemble model with enhanced outlier adaptation for credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2021	|http://dx.doi.org/10.1016/j.eswa.2020.113872|
+|63	|Dahooie, Jalil Heidary; Hajiagha, Seyed Hossein Razavi; Farazmehr, Shima; Zavadskas, Edmundas Kazimieras; Antucheviciene, Jurgita	|A novel dynamic credit risk evaluation method using data envelopment analysis with common weights and combination of multi-attribute decision-making methods	|COMPUTERS & OPERATIONS RESEARCH	|2021	|http://dx.doi.org/10.1016/j.cor.2021.105223|
+|64	|Yu, Lean; Zhang, Xiaoming	|Can small sample dataset be used for efficient internet loan credit risk assessment? Evidence from online peer to peer lending	|FINANCE RESEARCH LETTERS	|2021	|http://dx.doi.org/10.1016/j.frl.2020.101521|
+|65	|Dastile, Xolani; Celik, Turgay	|Making Deep Learning-Based Predictions for Credit Scoring Explainable	|IEEE ACCESS	|2021	|http://dx.doi.org/10.1109/ACCESS.2021.3068854|
+|66	|Djeundje, Viani B.; Crook, Jonathan; Calabrese, Raffaella; Hamid, Mona	|Enhancing credit scoring with alternative data	|EXPERT SYSTEMS WITH APPLICATIONS	|2021	|http://dx.doi.org/10.1016/j.eswa.2020.113766|
+|67	|Jin, Yilun; Zhang, Wenyu; Wu, Xin; Liu, Yanan; Hu, Zeqian	|A Novel Multi-Stage Ensemble Model With a Hybrid Genetic Algorithm for Credit Scoring on Imbalanced Data	|IEEE ACCESS	|2021	|http://dx.doi.org/10.1109/ACCESS.2021.3120086|
+|68	|Jin, Yilun; Liu, Yanan; Zhang, Wenyu; Zhang, Shuai; Lou, Yu	|A novel multi-stage ensemble model with multiple K-means-based selective undersampling: An application in credit scoring	|JOURNAL OF INTELLIGENT & FUZZY SYSTEMS	|2021	|http://dx.doi.org/10.3233/JIFS-201954|
+|69	|Liu, Wanan; Fan, Hong; Xia, Min	|Step-wise multi-grained augmented gradient boosting decision trees for credit scoring	|ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE	|2021	|http://dx.doi.org/10.1016/j.engappai.2020.104036|
+|70	|Shen, Feng; Zhao, Xingchao; Kou, Gang; Alsaadi, Fawaz E.	|A new deep learning ensemble credit risk evaluation model with an improved synthetic minority oversampling technique	|APPLIED SOFT COMPUTING	|2021	|http://dx.doi.org/10.1016/j.asoc.2020.106852|
+|71	|Tripathi, Diwakar; Reddy, B. Ramachandra; Reddy, Y. C. A. Padmanabha; Shukla, Alok Kumar; Kumar, Ravi Kant; Sharma, Neeraj Kumar	|BAT algorithm based feature selection: Application in credit scoring	|JOURNAL OF INTELLIGENT & FUZZY SYSTEMS	|2021	|http://dx.doi.org/10.3233/JIFS-189876|
+|72	|Xia, Yufei; He, Lingyun; Li, Yinguo; Fu, Yating; Xu, Yixin	|A DYNAMIC CREDIT SCORING MODEL BASED ON SURVIVAL GRADIENT BOOSTING DECISION TREE APPROACH	|TECHNOLOGICAL AND ECONOMIC DEVELOPMENT OF ECONOMY	|2021	|http://dx.doi.org/10.3846/tede.2020.13997|
+|73	|Yotsawat, Wirot; Wattuya, Pakaket; Srivihok, Anongnart	|A Novel Method for Credit Scoring Based on Cost-Sensitive Neural Network Ensemble	|IEEE ACCESS	|2021	|http://dx.doi.org/10.1109/ACCESS.2021.3083490|
+|74	|Zhuang, Kai; Wu, Sen; Gao, Xiaonan	|A deep metric learning approach for weakly supervised loan default prediction	|JOURNAL OF INTELLIGENT & FUZZY SYSTEMS	|2021	|http://dx.doi.org/10.3233/JIFS-189987|
+|75	|Barddal, Jean Paul; Loezer, Lucas; Enembreck, Fabricio; Lanzuolo, Riccardo	|Lessons learned from data stream classification applied to credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2020	|http://dx.doi.org/10.1016/j.eswa.2020.113899|
+|76	|Petrides, George; Moldovan, Darie; Coenen, Lize; Guns, Tias; Verbeke, Wouter	|Cost-sensitive learning for profit-driven credit scoring	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2022	|http://dx.doi.org/10.1080/01605682.2020.1843975|
+|77	|Xia, Yufei; Zhao, Junhao; He, Lingyun; Li, Yinguo; Niu, Mengyi	|A novel tree-based dynamic heterogeneous ensemble method for credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2020	|http://dx.doi.org/10.1016/j.eswa.2020.113615|
+|78	|Hou, Wen-hui; Wang, Xiao-kang; Zhang, Hong-yu; Wang, Jian-qiang; Li, Lin	|A novel dynamic ensemble selection classifier for an imbalanced data set: An application for credit risk assessment	|KNOWLEDGE-BASED SYSTEMS	|2020	[[code]](https://github.com/Menelau/DESlib.)|http://dx.doi.org/10.1016/j.knosys.2020.106462|
+|79	|Huang, Anzhong; Wu, Fei	|Two-stage adaptive integration of multi-source heterogeneous data based on an improved random subspace and prediction of default risk of microcredit	|NEURAL COMPUTING & APPLICATIONS	|2021	|http://dx.doi.org/10.1007/s00521-020-05489-z|
+|80	|Li, Yibei; Wang, Ximei; Djehiche, Boualem; Hu, Xiaoming	|Credit scoring by incorporating dynamic networked information	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2020	|http://dx.doi.org/10.1016/j.ejor.2020.03.078|
+|81	|Luo, Jian; Yang, Xueqi; Tian, Ye; Yu, Wenwen	|CORPORATE AND PERSONAL CREDIT SCORING VIA FUZZY NON-KERNEL SVM WITH FUZZY WITHIN-CLASS SCATTER	|JOURNAL OF INDUSTRIAL AND MANAGEMENT OPTIMIZATION	|2020	|http://dx.doi.org/10.3934/jimo.2019078|
+|82	|Tripathi, Diwakar; Edla, Damodar Reddy; Kuppili, Venkatanareshbabu; Bablani, Annushree	|Evolutionary Extreme Learning Machine with novel activation function for credit scoring	|ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE	|2020	|http://dx.doi.org/10.1016/j.engappai.2020.103980|
+|83	|Yu, Lean; Huang, Xiaowen; Yin, Hang	|Can machine learning paradigm improve attribute noise problem in credit risk classification?	|INTERNATIONAL REVIEW OF ECONOMICS & FINANCE	|2020	|http://dx.doi.org/10.1016/j.iref.2020.08.016|
+|84	|Zhang, Wei; Xu, Wei; Hao, Haijing; Zhu, Dan	|Cost-sensitive multiple-instance learning method with dynamic transactional data for personal credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2020	|http://dx.doi.org/10.1016/j.eswa.2020.113489|
+|85	|Zhou, Xiang; Zhang, Wenyu; Jiang, Yefeng	|Personal Credit Default Prediction Model Based on Convolution Neural Network	|MATHEMATICAL PROBLEMS IN ENGINEERING	|2020	|http://dx.doi.org/10.1155/2020/5608392|
+|86	|Yu, Lean; Zhou, Rongtian; Chen, Rongda; Lai, Kin Keung	|Missing Data Preprocessing in Credit Classification: One-Hot Encoding or Imputation?	|EMERGING MARKETS FINANCE AND TRADE	|2022	|http://dx.doi.org/10.1080/1540496X.2020.1825935|
+|87	|Niu, Kun; Zhang, Zaimei; Liu, Yan; Li, Renfa	|Resampling ensemble model based on data distribution for imbalanced credit risk evaluation in P2P lending	|INFORMATION SCIENCES	|2020	|http://dx.doi.org/10.1016/j.ins.2020.05.040|
+|88	|Rao, Congjun; Liu, Ming; Goh, Mark; Wen, Jianghui	|2-stage modified random forest model for credit risk assessment of P2P network lending to Three Rurals borrowers	|APPLIED SOFT COMPUTING	|2020	|http://dx.doi.org/10.1016/j.asoc.2020.106570|
+|89	|Shen, Feng; Zhao, Xingchao; Kou, Gang	|Three-stage reject inference learning framework for credit scoring using unsupervised transfer learning and three-way decision theory	|DECISION SUPPORT SYSTEMS	|2020	|http://dx.doi.org/10.1016/j.dss.2020.113366|
+|90	|Tripathi, Diwakar; Edla, Damodar Reddy; Kuppili, Venkatanareshbabu; Dharavath, Ramesh	|Binary BAT algorithm and RBFN based hybrid credit scoring model	|MULTIMEDIA TOOLS AND APPLICATIONS	|2020	|http://dx.doi.org/10.1007/s11042-020-09538-6|
+|91	|Zhang, Tong; Chi, Guotai	|A heterogeneous ensemble credit scoring model based on adaptive classifier selection: An application on imbalanced data	|INTERNATIONAL JOURNAL OF FINANCE & ECONOMICS	|2021	|http://dx.doi.org/10.1002/ijfe.2019|
+|92	|Melo Junior, Leopoldo; Nardini, Franco Maria; Renso, Chiara; Trani, Roberto; Macedo, Jose Antonio	|A novel approach to define the local region of dynamic selection techniques in imbalanced credit scoring problems	|EXPERT SYSTEMS WITH APPLICATIONS	|2020	|http://dx.doi.org/10.1016/j.eswa.2020.113351|
+|93	|Guo, Yiping	|Credit risk assessment of P2P lending platform towards big data based on BP neural network	|JOURNAL OF VISUAL COMMUNICATION AND IMAGE REPRESENTATION	|2020	|http://dx.doi.org/10.1016/j.jvcir.2019.102730|
+|94	|Nalic, Jasmina; Martinovic, Goran; Zagar, Drago	|New hybrid data mining model for credit scoring based on feature selection algorithm and ensemble classifiers	|ADVANCED ENGINEERING INFORMATICS	|2020	|http://dx.doi.org/10.1016/j.aei.2020.101130|
+|95	|Sen, Doruk; Donmez, Cem Cagri; Yildirim, Umman Mahir	|A Hybrid Bi-level Metaheuristic for Credit Scoring	|INFORMATION SYSTEMS FRONTIERS	|2020	|http://dx.doi.org/10.1007/s10796-020-10037-0|
+|96	|Fonseca, Diego Paganoti; Wanke, Peter Fernandes; Correa, Henrique Luiz	|A two-stage fuzzy neural approach for credit risk assessment in a Brazilian credit card company	|APPLIED SOFT COMPUTING	|2020	|http://dx.doi.org/10.1016/j.asoc.2020.106329|
+|97	|Song, Yu; Wang, Yuyan; Ye, Xin; Wang, Dujuan; Yin, Yunqiang; Wang, Yanzhang	|Multi-view ensemble learning based on distance-to-model and adaptive clustering for imbalanced credit risk assessment in P2P lending	|INFORMATION SCIENCES	|2020	|http://dx.doi.org/10.1016/j.ins.2020.03.027|
+|98	|Zhang, Weiguo; Wang, Chao; Zhang, Yue; Wang, Junbo	|Credit risk evaluation model with textual features from loan descriptions for P2P lending	|ELECTRONIC COMMERCE RESEARCH AND APPLICATIONS	|2020	|http://dx.doi.org/10.1016/j.elerap.2020.100989|
+|99	|Dastile, Xolani; Celik, Turgay; Potsane, Moshe	|Statistical and machine learning models in credit scoring: A systematic literature survey	|APPLIED SOFT COMPUTING	|2020	|http://dx.doi.org/10.1016/j.asoc.2020.106263|
+|100	|Lei, Kai; Xie, Yuexiang; Zhong, Shangru; Dai, Jingchao; Yang, Min; Shen, Ying	|Generative adversarial fusion network for class imbalance credit scoring	|NEURAL COMPUTING & APPLICATIONS	|2020	|http://dx.doi.org/10.1007/s00521-019-04335-1|
+|101	|Uddin, Mohammad Shamsu; Chi, Guotai; Habib, Tabassum; Zhou, Ying	|An alternative statistical framework for credit default prediction	|JOURNAL OF RISK MODEL VALIDATION	|2020	|http://dx.doi.org/10.21314/JRMV.2020.220|
+|102	|Wang, Lu; Chen, Yuangao; Jiang, Hui; Yao, Jianrong	|Imbalanced credit risk evaluation based on multiple sampling, multiple kernel fuzzy self-organizing map and local accuracy ensemble	|APPLIED SOFT COMPUTING	|2020	|http://dx.doi.org/10.1016/j.asoc.2020.106262|
+|103	|Ouyang, Hongbing; Zhi, Yong; Wu, Boyuan	|A study on default prediction of Chinese online lending: based on the analysis of mobile phone usage data	|APPLIED ECONOMICS LETTERS	|2021	|http://dx.doi.org/10.1080/13504851.2020.1770679|
+|104	|Mancisidor, Rogelio A.; Kampffmeyer, Michael; Aas, Kjersti; Jenssen, Robert	|Deep generative models for reject inference in credit scoring	|KNOWLEDGE-BASED SYSTEMS	|2020	|http://dx.doi.org/10.1016/j.knosys.2020.105758|
+|105	|Chen, Wei; Li, Zhongfei; Guo, Jinchao	|A VNS-EDA Algorithm-Based Feature Selection for Credit Risk Classification	|MATHEMATICAL PROBLEMS IN ENGINEERING	|2020	|http://dx.doi.org/10.1155/2020/4515480|
+|106	|Plawiak, Pawel; Abdar, Moloud; Plawiak, Joanna; Makarenkov, Vladimir; Acharya, U. Rajendra	|DGHNL: A new deep genetic hierarchical network of learners for prediction of credit scoring	|INFORMATION SCIENCES	|2020	|http://dx.doi.org/10.1016/j.ins.2019.12.045|
+|107	|Sivasankar, E.; Selvi, C.; Mahalakshmi, S.	|Rough set-based feature selection for credit risk prediction using weight-adjusted boosting ensemble method	|SOFT COMPUTING	|2020	|http://dx.doi.org/10.1007/s00500-019-04167-0|
+|108	|Yu, Xi; Yang, Qi; Wang, Ruiqi; Fang, Runqing; Deng, Mingsen	|Data Cleaning for Personal Credit Scoring by Utilizing Social Media Data: An Empirical Study	|IEEE INTELLIGENT SYSTEMS	|2020	|http://dx.doi.org/10.1109/MIS.2020.2972214|
+|109	|Xiao, Jin; Zhou, Xu; Zhong, Yu; Xie, Ling; Gu, Xin; Liu, Dunhu	|Cost-sensitive semi-supervised selective ensemble model for customer credit scoring	|KNOWLEDGE-BASED SYSTEMS	|2020	|http://dx.doi.org/10.1016/j.knosys.2019.105118|
+|110	|Luo, Jian; Yan, Xin; Tian, Ye	|Unsupervised quadratic surface support vector machine with application to credit risk assessment	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2020	|http://dx.doi.org/10.1016/j.ejor.2019.08.010|
+|111	|Wang, Zhao; Jiang, Cuiqing; Zhao, Huimin; Ding, Yong	|Mining Semantic Soft Factors for Credit Risk Evaluation in Peer-to-Peer Lending	|JOURNAL OF MANAGEMENT INFORMATION SYSTEMS	|2020	|http://dx.doi.org/10.1080/07421222.2019.1705513|
+|112	|Arora, Nisha; Kaur, Pankaj Deep	|A Bolasso based consistent feature selection enabled random forest classification algorithm: An application to credit risk assessment	|APPLIED SOFT COMPUTING	|2020	|http://dx.doi.org/10.1016/j.asoc.2019.105936|
+|113	|Carta, Salvatore; Ferreira, Anselmo; Recupero, Diego Reforgiato; Saia, Marco; Saia, Roberto	|A combined entropy-based approach for a proactive credit scoring	|ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE	|2020	|http://dx.doi.org/10.1016/j.engappai.2019.103292|
+|114	|Li, Wei; Ding, Shuai; Wang, Hao; Chen, Yi; Yang, Shanlin	|Heterogeneous ensemble learning with feature engineering for default prediction in peer-to-peer lending in China	|WORLD WIDE WEB-INTERNET AND WEB INFORMATION SYSTEMS	|2020	|http://dx.doi.org/10.1007/s11280-019-00676-y|
+|115	|Shen, Feng; Wang, Run; Shen, Yu	|A COST-SENSITIVE LOGISTIC REGRESSION CREDIT SCORING MODEL BASED ON MULTI-OBJECTIVE OPTIMIZATION APPROACH	|TECHNOLOGICAL AND ECONOMIC DEVELOPMENT OF ECONOMY	|2020	|http://dx.doi.org/10.3846/tede.2019.11337|
+|116	|Zhang, Zaimei; Niu, Kun; Liu, Yan	|A Deep Learning Based Online Credit Scoring Model for P2P Lending	|IEEE ACCESS	|2020	|http://dx.doi.org/10.1109/ACCESS.2020.3027337|
+|117	|Liu, Chao; Xie, Jing; Zhao, Qi; Xie, Qiwei; Liu, Chenqi	|Novel evolutionary multi-objective soft subspace clustering algorithm for credit risk assessment	|EXPERT SYSTEMS WITH APPLICATIONS	|2019	|http://dx.doi.org/10.1016/j.eswa.2019.112827|
+|118	|Han, Xu; Cui, Runbang; Lan, Yanfei; Kang, Yanzhe; Deng, Jiang; Jia, Ning	|A Gaussian mixture model based combined resampling algorithm for classification of imbalanced credit data sets	|INTERNATIONAL JOURNAL OF MACHINE LEARNING AND CYBERNETICS	|2019	|http://dx.doi.org/10.1007/s13042-019-00953-2|
+|119	|Ma, Xiaomeng; Lv, Shuliang	|Financial credit risk prediction in internet finance driven by machine learning	|NEURAL COMPUTING & APPLICATIONS	|2019	|http://dx.doi.org/10.1007/s00521-018-3963-6|
+|120	|Herasymovych, Mykola; Marka, Karl; Lukason, Oliver	|Using reinforcement learning to optimize the acceptance threshold of a credit scoring model	|APPLIED SOFT COMPUTING	|2019	|http://dx.doi.org/10.1016/j.asoc.2019.105697|
+|121	|Plawiak, Pawel; Abdar, Moloud; Acharya, U. Rajendra	|Application of new deep genetic cascade ensemble of SVM classifiers to predict the Australian credit scoring	|APPLIED SOFT COMPUTING	|2019	|http://dx.doi.org/10.1016/j.asoc.2019.105740|
+|122	|Lopez, Julio; Maldonado, Sebastian	|Profit-based credit scoring based on robust optimization and feature selection	|INFORMATION SCIENCES	|2019	|http://dx.doi.org/10.1016/j.ins.2019.05.093|
+|123	|Guo, Yan; He, Jing; Xu, Libo; Liu, Wei	|A novel multi-objective particle swarm optimization for comprehensible credit scoring	|SOFT COMPUTING	|2019	|http://dx.doi.org/10.1007/s00500-018-3509-y|
+|124	|Wu, Chong; Gao, Dekun; Ma, Qianqun; Wang, Qi; Lu, Yu	|An advanced hybrid classification technique for credit risk evaluation	|JOURNAL OF RISK MODEL VALIDATION	|2019	|http://dx.doi.org/10.21314/JRMV.2019.210|
+|125	|Jiang, Cuiqing; Wang, Zhao; Zhao, Huimin	|A prediction-driven mixture cure model and its application in credit scoring	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2019	|http://dx.doi.org/10.1016/j.ejor.2019.01.072|
+|126	|Wang Bao; Ning Lianju; Kong Yue	|Integration of unsupervised and supervised machine learning algorithms for credit risk assessment	|EXPERT SYSTEMS WITH APPLICATIONS	|2019	|http://dx.doi.org/10.1016/j.eswa.2019.02.033|
+|127	|Chi, Guotai; Uddin, Mohammad Shamsu; Abedin, Mohammad Zoynul; Yuan, Kunpeng	|Hybrid Model for Credit Risk Prediction: An Application of Neural Network Approaches	|INTERNATIONAL JOURNAL ON ARTIFICIAL INTELLIGENCE TOOLS	|2019	|http://dx.doi.org/10.1142/S0218213019500179|
+|128	|Soui, Makram; Gasmi, Ines; Smiti, Salima; Ghedira, Khaled	|Rule-based credit risk assessment model using multi-objective evolutionary algorithms	|EXPERT SYSTEMS WITH APPLICATIONS	|2019	|http://dx.doi.org/10.1016/j.eswa.2019.01.078|
+|129	|Fombellida, J.; Martin-Rubio, I.; Romera-Zarza, A.; Andina, D.	|KLN, a new biological koniocortex based unsupervised neural network: competitive results on credit scoring	|NATURAL COMPUTING	|2019	|http://dx.doi.org/10.1007/s11047-018-9698-6|
+|130	|Kozodoi, Nikita; Lessmann, Stefan; Papakonstantinou, Konstantinos; Gatsoulis, Yiannis; Baesens, Bart	|A multi-objective approach for profit-driven feature selection in credit scoring	|DECISION SUPPORT SYSTEMS	|2019	|http://dx.doi.org/10.1016/j.dss.2019.03.011|
+|131	|Tripathi, Diwakar; Edla, Damodar Reddy; Cheruku, Ramalingaswamy; Kuppili, Venkatanareshbabu	|A novel hybrid credit scoring model based on ensemble feature selection and multilayer ensemble classification	|COMPUTATIONAL INTELLIGENCE	|2019	|http://dx.doi.org/10.1111/coin.12200|
+|132	|Zhang, Wenyu; He, Hongliang; Zhang, Shuai	|A novel multi-stage hybrid model with enhanced multi-population niche genetic algorithm: An application in credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2019	|http://dx.doi.org/10.1016/j.eswa.2018.12.020|
+|133	|Zhang, Zhiwang; He, Jing; Gao, Guangxia; Tian, Yingjie	|Sparse multi-criteria optimization classifier for credit risk evaluation	|SOFT COMPUTING	|2019	|http://dx.doi.org/10.1007/s00500-017-2953-4|
+|134	|Xu, Dayu; Zhang, Xuyao; Feng, Hailin	|Generalized fuzzy soft sets theory-based novel hybrid ensemble credit scoring model	|INTERNATIONAL JOURNAL OF FINANCE & ECONOMICS	|2019	|http://dx.doi.org/10.1002/ijfe.1698|
+|135	|Yu, Jia; Yao, Jianrong; Chen, Yuangao	|Credit Scoring with AHP and Fuzzy Comprehensive Evaluation Based on Behavioural Data from Weibo Platform	|TEHNICKI VJESNIK-TECHNICAL GAZETTE	|2019	|http://dx.doi.org/10.17559/TV-20181217180231|
+|136	|Feng, Xiaodong; Xiao, Zhi; Zhong, Bo; Dong, Yuanxiang; Qiu, Jing	|Dynamic weighted ensemble classification for credit scoring using Markov Chain	|APPLIED INTELLIGENCE	|2019	|http://dx.doi.org/10.1007/s10489-018-1253-8|
+|137	|Li, Wei; Ding, Shuai; Chen, Yi; Wang, Hao; Yang, Shanlin	|Transfer learning-based default prediction model for consumer credit in China	|JOURNAL OF SUPERCOMPUTING	|2019	|http://dx.doi.org/10.1007/s11227-018-2619-8|
+|138	|Sameer, F. O.; Abu Bakar, M. R.; Zaidan, A. A.; Zaidan, B. B.	|A new algorithm of modified binary particle swarm optimization based on the Gustafson-Kessel for credit risk assessment	|NEURAL COMPUTING & APPLICATIONS	|2019	|http://dx.doi.org/10.1007/s00521-017-3018-4|
+|139	|Andric, Kristina; Kalpic, Damir; Bohacek, Zoran	|An insight into the effects of class imbalance and sampling on classification accuracy in credit risk assessment	|COMPUTER SCIENCE AND INFORMATION SYSTEMS	|2019	|http://dx.doi.org/10.2298/CSIS180110037A|
+|140	|Oskarsdottir, Maria; Bravo, Cristian; Sarraute, Carlos; Vanthienen, Jan; Baesens, Bart	|The value of big data for credit scoring: Enhancing financial inclusion using mobile phone data and social network analytics	|APPLIED SOFT COMPUTING	|2019	|http://dx.doi.org/10.1016/j.asoc.2018.10.004|
+|141	|Wang, Chongren; Han, Dongmei; Liu, Qigang; Luo, Suyuan	|A Deep Learning Approach for Credit Scoring of Peer-to-Peer Lending Using Attention Mechanism LSTM	|IEEE ACCESS	|2019	|http://dx.doi.org/10.1109/ACCESS.2018.2887138|
+|142	|Tian, Ye; Yong, Ziyang; Luo, Jian	|A new approach for reject inference in credit scoring using kernel-free fuzzy quadratic surface support vector machines	|APPLIED SOFT COMPUTING	|2018	|http://dx.doi.org/10.1016/j.asoc.2018.08.021|
+|143	|Zhang, Tao; Zhang, Wei; Xu, Wei; Hao, Haijing	|Multiple instance learning for credit risk assessment with transaction data	|KNOWLEDGE-BASED SYSTEMS	|2018	|http://dx.doi.org/10.1016/j.knosys.2018.07.030|
+|144	|Zhang, Haoting; He, Hongliang; Zhang, Wenyu	|Classifier selection and clustering with fuzzy assignment in ensemble model for credit scoring	|NEUROCOMPUTING	|2018	|http://dx.doi.org/10.1016/j.neucom.2018.07.070|
+|145	|Dzelihodzic, Adnan; Donko, Dzenana; Kevric, Jasmin	|Improved Credit Scoring Model Based on Bagging Neural Network	|INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY & DECISION MAKING	|2018	|http://dx.doi.org/10.1142/S0219622018500293|
+|146	|Hayashi, Yoichi; Oishi, Tatsuhiro	|High Accuracy-priority Rule Extraction for Reconciling Accuracy and Interpretability in Credit Scoring	|NEW GENERATION COMPUTING	|2018	|http://dx.doi.org/10.1007/s00354-018-0043-5|
+|147	|Jiang, Hao; Ching, Wai-Ki; Yiu, Ka Fai Cedric; Qiu, Yushan	|Stationary Mahalanobis kernel SVM for credit risk evaluation	|APPLIED SOFT COMPUTING	|2018	|http://dx.doi.org/10.1016/j.asoc.2018.07.005|
+|148	|Ma, Xiaojun; Sha, Jinglan; Wang, Dehua; Yu, Yuanbo; Yang, Qian; Niu, Xueqi	|Study on a prediction of P2P network loan default based on the machine learning LightGBM and XGboost algorithms according to different high dimensional data cleaning	|ELECTRONIC COMMERCE RESEARCH AND APPLICATIONS	|2018	|http://dx.doi.org/10.1016/j.elerap.2018.08.002|
+|149	|Yu, Lean; Zhou, Rongtian; Tang, Ling; Chen, Rongda	|A DBN-based resampling SVM ensemble learning paradigm for credit classification with imbalanced data	|APPLIED SOFT COMPUTING	|2018	|http://dx.doi.org/10.1016/j.asoc.2018.04.049|
+|150	|Jiang, Cuiqing; Wang, Zhao; Wang, Ruiya; Ding, Yong	|Loan default prediction by combining soft information extracted from descriptive text in online peer-to-peer lending	|ANNALS OF OPERATIONS RESEARCH	|2018	|http://dx.doi.org/10.1007/s10479-017-2668-z|
+|151	|Ma, Lin; Zhao, Xi; Zhou, Zhili; Liu, Yuanyuan	|A new aspect on P2P online lending default prediction using meta-level phone usage data in China	|DECISION SUPPORT SYSTEMS	|2018	|http://dx.doi.org/10.1016/j.dss.2018.05.001|
+|152	|He, Hongliang; Zhang, Wenyu; Zhang, Shuai	|A novel ensemble method for credit scoring: Adaption of different imbalance ratios	|EXPERT SYSTEMS WITH APPLICATIONS	|2018	|http://dx.doi.org/10.1016/j.eswa.2018.01.012|
+|153	|Feng, Xiaodong; Xiao, Zhi; Zhong, Bo; Qiu, Jing; Dong, Yuanxiang	|Dynamic ensemble classification for credit scoring using soft probability	|APPLIED SOFT COMPUTING	|2018	|http://dx.doi.org/10.1016/j.asoc.2018.01.021|
+|154	|Xia, Yufei; Liu, Chuanzhe; Da, Bowen; Xie, Fangming	|A novel heterogeneous ensemble credit scoring model based on bstacking approach	|EXPERT SYSTEMS WITH APPLICATIONS	|2018	|http://dx.doi.org/10.1016/j.eswa.2017.10.022|
+|155	|Liu, ZhanFeng; Pan, Su	|Fuzzy-Rough Instance Selection Combined with Effective Classifiers in Credit Scoring	|NEURAL PROCESSING LETTERS	|2018	|http://dx.doi.org/10.1007/s11063-017-9641-3|
+|156	|Shen, Feng; Ma, Xinsong; Li, Zhiyong; Xu, Zeshui; Cai, Dongliang	|An extended intuitionistic fuzzy TOPSIS method based on a new distance measure with an application to credit risk evaluation	|INFORMATION SCIENCES	|2018	|http://dx.doi.org/10.1016/j.ins.2017.10.045|
+|157	|Zhang, Qi; Wang, Jue; Lu, Aiguo; Wang, Shouyang; Ma, Jian	|An improved SMO algorithm for financial credit risk assessment - Evidence from China's banking	|NEUROCOMPUTING	|2018	|http://dx.doi.org/10.1016/j.neucom.2017.07.002|
+|158	|Abedin, Mohammad Zoynul; Guotai, Chi; Colombage, Sisira; Fahmida-E-Moula	|Credit default prediction using a support vector machine and a probabilistic neural network	|JOURNAL OF CREDIT RISK	|2018	|http://dx.doi.org/10.21314/JCR.2017.233|
+|159	|Li, Wei; Ding, Shuai; Chen, Yi; Yang, Shanlin	|Heterogeneous Ensemble for Default Prediction of Peer-to-Peer Lending in China	|IEEE ACCESS	|2018	|http://dx.doi.org/10.1109/ACCESS.2018.2810864|
+|160	|Namvar, Anahita; Siami, Mohammad; Rabhi, Fethi; Naderpour, Mohsen	|Credit risk prediction in an imbalanced social lending environment	|INTERNATIONAL JOURNAL OF COMPUTATIONAL INTELLIGENCE SYSTEMS	|2018	|http://dx.doi.org/10.2991/ijcis.11.1.70|
+|161	|Dahiya, Shashi; Handa, S. S.; Singh, N. P.	|A feature selection enabled hybrid-bagging algorithm for credit risk evaluation	|EXPERT SYSTEMS	|2017	|http://dx.doi.org/10.1111/exsy.12217|
+|162	|Maldonado, Sebastian; Bravo, Cristian; Lopez, Julio; Perez, Juan	|Integrated framework for profit-based feature selection and SVM classification in credit scoring	|DECISION SUPPORT SYSTEMS	|2017	|http://dx.doi.org/10.1016/j.dss.2017.10.007|
+|163	|Beque, Artem; Lessmann, Stefan	|Extreme learning machines for credit scoring: An empirical evaluation	|EXPERT SYSTEMS WITH APPLICATIONS	|2017	|http://dx.doi.org/10.1016/j.eswa.2017.05.050|
+|164	|Luo, Cuicui; Wu, Desheng; Wu, Dexiang	|A deep learning approach for credit scoring using credit default swaps	|ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE	|2017	|http://dx.doi.org/10.1016/j.engappai.2016.12.002|
+|165	|Maldonado, Sebastian; Perez, Juan; Bravo, Cristian	|Cost-based feature selection for Support Vector Machines: An application in credit scoring	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2017	|http://dx.doi.org/10.1016/j.ejor.2017.02.037|
+|166	|Xia, Yufei; Liu, Chuanzhe; Li, YuYing; Liu, Nana	|A boosted decision tree approach using Bayesian hyper-parameter optimization for credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2017	|http://dx.doi.org/10.1016/j.eswa.2017.02.017|
+|167	|AghaeiRad, Ali; Chen, Ning; Ribeiro, Bernardete	|Improve credit scoring using transfer of learned knowledge from self-organizing map	|NEURAL COMPUTING & APPLICATIONS	|2017	|http://dx.doi.org/10.1007/s00521-016-2567-2|
+|168	|Dirick, Lore; Claeskens, Gerda; Baesens, Bart	|Time to default in credit scoring using survival analysis: a benchmark study	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2017	|http://dx.doi.org/10.1057/s41274-016-0128-9|
+|169	|Li, Zhiyong; Tian, Ye; Li, Me; Zhou, Fanyin; Yang, Wei	|Reject inference in credit scoring using Semi-supervised Support Vector Machines	|EXPERT SYSTEMS WITH APPLICATIONS	|2017	|http://dx.doi.org/10.1016/j.eswa.2017.01.011|
+|170	|Abelian, Joaquin; Castellano, Javier G.	|A comparative study on base classifiers in ensemble methods for credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2017	|http://dx.doi.org/10.1016/j.eswa.2016.12.020|
+|171	|Ala'raj, Maher; Abbod, Maysam F.	|A new hybrid ensemble credit scoring model based on classifiers consensus system approach	|EXPERT SYSTEMS WITH APPLICATIONS	|2016	|http://dx.doi.org/10.1016/j.eswa.2016.07.017|
+|172	|Guo, Guangming; Zhu, Feida; Chen, Enhong; Liu, Qi; Wu, Le; Guan, Chu	|From Footprint to Evidence: An Exploratory Study of Mining Social Data for Credit Scoring	|ACM TRANSACTIONS ON THE WEB	|2016	|http://dx.doi.org/10.1145/2996465|
+|173	|Yu, Lean; Yang, Zebin; Tang, Ling	|A novel multistage deep belief network based extreme learning machine ensemble learning paradigm for credit risk assessment	|FLEXIBLE SERVICES AND MANUFACTURING JOURNAL	|2016	|http://dx.doi.org/10.1007/s10696-015-9226-2|
+|174	|Serrano-Cinca, Carlos; Gutierrez-Nieto, Begona	|The use of profit scoring as an alternative to credit scoring systems in peer-to-peer (P2P) lending	|DECISION SUPPORT SYSTEMS	|2016	|http://dx.doi.org/10.1016/j.dss.2016.06.014|
+|175	|Ala'raj, Maher; Abbod, Maysam F.	|Classifiers consensus system approach for credit scoring	|KNOWLEDGE-BASED SYSTEMS	|2016	|http://dx.doi.org/10.1016/j.knosys.2016.04.013|
+|176	|Xiao, Hongshan; Xiao, Zhi; Wang, Yu	|Ensemble classification based on supervised clustering for credit scoring	|APPLIED SOFT COMPUTING	|2016	|http://dx.doi.org/10.1016/j.asoc.2016.02.022|
+|177	|Gorzalczany, Marian B.; Rudzinski, Filip	|A multi-objective genetic optimization for fast, fuzzy rule-based credit classification with balanced accuracy and interpretability	|APPLIED SOFT COMPUTING	|2016	|http://dx.doi.org/10.1016/j.asoc.2015.11.037|
+|178	|Leong, Chee Kian	|Credit Risk Scoring with Bayesian Network Models	|COMPUTATIONAL ECONOMICS	|2016	|http://dx.doi.org/10.1007/s10614-015-9505-8|
+|179	|Sousa, Maria Rocha; Gama, Joao; Brandao, Elisio	|A new dynamic modeling framework for credit risk assessment	|EXPERT SYSTEMS WITH APPLICATIONS	|2016	|http://dx.doi.org/10.1016/j.eswa.2015.09.055|
+|180	|Wei, Yanhao; Yildirim, Pinar; Van den Bulte, Christophe; Dellarocas, Chrysanthos	|Credit Scoring with Social Network Data	|MARKETING SCIENCE	|2016	|http://dx.doi.org/10.1287/mksc.2015.0949|
+|181	|Xiao, Jin; Xie, Ling; Liu, Dunhu; Xiao, Yi; Hu, Yi	|A Clustering and Selection Based Transfer Ensemble Model for Customer Credit Scoring	|FILOMAT	|2016	|http://dx.doi.org/10.2298/FIL1615015X|
+|182	|Yu, Lean; Li, Xinxie; Tang, Ling; Gao, Li	|An ELM-based Classification Algorithm with Optimal Cutoff Selection for Credit Risk Assessment	|FILOMAT	|2016	|http://dx.doi.org/10.2298/FIL1615027Y|
+|183	|Lessmann, Stefan; Baesens, Bart; Seow, Hsin-Vonn; Thomas, Lyn C.	|Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2015	|http://dx.doi.org/10.1016/j.ejor.2015.05.030|
+|184	|Koutanaei, Fatemeh Nemati; Sajedi, Hedieh; Khanbabaei, Mohammad	|A hybrid data mining model of feature selection algorithms and ensemble learning classifiers for credit scoring	|JOURNAL OF RETAILING AND CONSUMER SERVICES	|2015	|http://dx.doi.org/10.1016/j.jretconser.2015.07.003|
+|185	|Florez-Lopez, Raquel; Manuel Ramon-Jeronimo, Juan	|Enhancing accuracy and interpretability of ensemble strategies in credit risk assessment. A correlated-adjusted decision forest proposal	|EXPERT SYSTEMS WITH APPLICATIONS	|2015	|http://dx.doi.org/10.1016/j.eswa.2015.02.042|
+|186	|Bravo, Cristian; Thomas, Lyn C.; Weber, Richard	|Improving credit scoring by differentiating defaulter behaviour	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2015	|http://dx.doi.org/10.1057/jors.2014.50|
+|187	|Zhao, Zongyuan; Xu, Shuxiang; Kang, Byeong Ho; Kabir, Mir Md Jahangir; Liu, Yunling; Wasinger, Rainer	|Investigation and improvement of multi-layer perceptron neural networks for credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2015	|http://dx.doi.org/10.1016/j.eswa.2014.12.006|
+|188	|Kozeny, Vaclav	|Genetic algorithms for credit scoring: Alternative fitness function performance comparison	|EXPERT SYSTEMS WITH APPLICATIONS	|2015	|http://dx.doi.org/10.1016/j.eswa.2014.11.028|
+|189	|Tomczak, Jakob M.; Zieba, Maciej	|Classification Restricted Boltzmann Machine for comprehensible credit scoring model	|EXPERT SYSTEMS WITH APPLICATIONS	|2015	|http://dx.doi.org/10.1016/j.eswa.2014.10.016|
+|190	|Harris, Terry	|Credit scoring using the clustered support vector machine	|EXPERT SYSTEMS WITH APPLICATIONS	|2015	|http://dx.doi.org/10.1016/j.eswa.2014.08.029|
+|191	|Cheng, Min-Yuan; Nhat-Duc Hoang; Lirnanto, Lisayuri; Wu, Yu-Wei	|A novel hybrid intelligent approach for contractor default status prediction	|KNOWLEDGE-BASED SYSTEMS	|2014	|http://dx.doi.org/10.1016/j.knosys.2014.08.009|
+|192	|Verbraken, Thomas; Bravo, Cristian; Weber, Richard; Baesens, Bart	|Development and application of consumer credit scoring models using profit-based V classification measures	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2014	|http://dx.doi.org/10.1016/j.ejor.2014.04.001|
+|193	|Zhang, Zhiwang; Gao, Guangxia; Shi, Yong	|Credit risk evaluation using multi-criteria optimization classifier with kernel, fuzzification and penalty factors	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2014	|http://dx.doi.org/10.1016/j.ejor.2014.01.044|
+|194	|Abellan, Joaquin; Mantas, Carlos J.	|Improving experimental studies about ensembles of classifiers for bankruptcy prediction and credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2014	|http://dx.doi.org/10.1016/j.eswa.2013.12.003|
+|195	|Oreski, Stjepan; Oreski, Goran	|Genetic algorithm-based heuristic for feature selection in credit risk assessment	|EXPERT SYSTEMS WITH APPLICATIONS	|2014	|http://dx.doi.org/10.1016/j.eswa.2013.09.004|
+|196	|Kou, Gang; Wu, Wenshuai	|An Analytic Hierarchy Model for Classification Algorithms Selection in Credit Risk Analysis	|MATHEMATICAL PROBLEMS IN ENGINEERING	|2014	|http://dx.doi.org/10.1155/2014/297563|
+|197	|Li, Yong-Bin; Zhang, Jian-Ping	|Approach to multiple attribute decision making with hesitant triangular fuzzy information and their application to customer credit risk assessment	|JOURNAL OF INTELLIGENT & FUZZY SYSTEMS	|2014	|http://dx.doi.org/10.3233/IFS-130952|
+|198	|Siami, Mohammad; Gholamian, Mohammad Reza; Basiri, Javad	|An application of locally linear model tree algorithm with combination of feature selection in credit scoring	|INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE	|2014	|http://dx.doi.org/10.1080/00207721.2013.767395|
+|199	|Tsai, Chih-Fong; Hung, Chihli	|Modeling credit scoring using neural network ensembles	|KYBERNETES	|2014	|http://dx.doi.org/10.1108/K-01-2014-0016|
+|200	|Saberi, Morteza; Mirtalaie, Monireh Sadat; Hussain, Farookh Khadeer; Azadeh, Ali; Hussain, Omar Khadeer; Ashjari, Behzad	|A granular computing-based approach to credit scoring modeling	|NEUROCOMPUTING	|2013	|http://dx.doi.org/10.1016/j.neucom.2013.05.020|
+|201	|Teng, Ge-Er; He, Chang-Zheng; Xiao, Jin; Jiang, Xiao-Yi	|Customer credit scoring based on HMM/GMDH hybrid model	|KNOWLEDGE AND INFORMATION SYSTEMS	|2013	|http://dx.doi.org/10.1007/s10115-012-0572-z|
+|202	|Marques, A. I.; Garcia, V.; Sanchez, J. S.	|On the suitability of resampling techniques for the class imbalance problem in credit scoring	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2013	|http://dx.doi.org/10.1057/jors.2012.120|
+|203	|Kennedy, K.; Mac Namee, B.; Delany, S. J.	|Using semi-supervised classifiers for credit scoring	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2013	|http://dx.doi.org/10.1057/jors.2011.30|
+|204	|Yu, Lean; Yao, Xiao	|A total least squares proximal support vector classifier for credit risk evaluation	|SOFT COMPUTING	|2013	|http://dx.doi.org/10.1007/s00500-012-0936-z|
+|205	|Buecker, Michael; van Kampen, Maarten; Kraemer, Walter	|Reject inference in consumer credit scoring with nonignorable missing data	|JOURNAL OF BANKING & FINANCE	|2013	|http://dx.doi.org/10.1016/j.jbankfin.2012.11.002|
+|206	|Han, Lu; Han, Liyan; Zhao, Hongwei	|Orthogonal support vector machine for credit scoring	|ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE	|2013	|http://dx.doi.org/10.1016/j.engappai.2012.10.005|
+|207	|Li, Jianwu; Wei, Haizhou; Hao, Wangli	|Weight-Selected Attribute Bagging for Credit Scoring	|MATHEMATICAL PROBLEMS IN ENGINEERING	|2013	|http://dx.doi.org/10.1155/2013/379690|
+|208	|Twala, Bhekisipho	|Impact of noise on credit risk prediction: Does data quality really matter?	|INTELLIGENT DATA ANALYSIS	|2013	|http://dx.doi.org/10.3233/IDA-130623|
+|209	|Garcia, V.; Marques, A. I.; Sanchez, J. S.	|On the use of data filtering techniques for credit risk prediction with instance-based models	|EXPERT SYSTEMS WITH APPLICATIONS	|2012	|http://dx.doi.org/10.1016/j.eswa.2012.05.075|
+|210	|Kao, Ling-Jing; Chiu, Chih-Chou; Chiu, Fon-Yu	|A Bayesian latent variable model with classification and regression tree approach for behavior and credit scoring	|KNOWLEDGE-BASED SYSTEMS	|2012	|http://dx.doi.org/10.1016/j.knosys.2012.07.004|
+|211	|Pavlidis, N. G.; Tasoulis, D. K.; Adams, N. M.; Hand, D. J.	|Adaptive consumer credit classification	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2012	|http://dx.doi.org/10.1057/jors.2012.15|
+|212	|Oreski, Stjepan; Oreski, Dijana; Oreski, Goran	|Hybrid system with genetic algorithm and artificial neural networks and its application to retail credit risk assessment	|EXPERT SYSTEMS WITH APPLICATIONS	|2012	|http://dx.doi.org/10.1016/j.eswa.2012.05.023|
+|213	|Chen, G. G.; Astebro, T.	|Bound and collapse Bayesian reject inference for credit scoring	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2012	|http://dx.doi.org/10.1057/jors.2011.149|
+|214	|Marques, A. I.; Garcia, V.; Sanchez, J. S.	|Two-level classifier ensembles for credit risk assessment	|EXPERT SYSTEMS WITH APPLICATIONS	|2012	|http://dx.doi.org/10.1016/j.eswa.2012.03.033|
+|215	|Marques, A. I.; Garcia, V.; Sanchez, J. S.	|Exploring the behaviour of base classifiers in credit scoring ensembles	|EXPERT SYSTEMS WITH APPLICATIONS	|2012	|http://dx.doi.org/10.1016/j.eswa.2012.02.092|
+|216	|Vukovic, Sanja; Delibasic, Boris; Uzelac, Ana; Suknovic, Milija	|A case-based reasoning model that uses preference theory functions for credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2012	|http://dx.doi.org/10.1016/j.eswa.2012.01.181|
+|217	|Hens, Akhil Bandhu; Tiwari, Manoj Kumar	|Computational time reduction for credit scoring: An integrated approach based on support vector machine and stratified sampling method	|EXPERT SYSTEMS WITH APPLICATIONS	|2012	|http://dx.doi.org/10.1016/j.eswa.2011.12.057|
+|218	|Wang, Jue; Hedar, Abdel-Rahman; Wang, Shouyang; Ma, Jian	|Rough set and scatter search metaheuristic based feature selection for credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2012	|http://dx.doi.org/10.1016/j.eswa.2011.11.011|
+|219	|Capotorti, Andrea; Barbanera, Eva	|Credit scoring analysis using a fuzzy probabilistic rough set model	|COMPUTATIONAL STATISTICS & DATA ANALYSIS	|2012	|http://dx.doi.org/10.1016/j.csda.2011.06.036|
+|220	|Tong, Edward N. C.; Mues, Christophe; Thomas, Lyn C.	|Mixture cure models in credit scoring: If and when borrowers default	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2012	|http://dx.doi.org/10.1016/j.ejor.2011.10.007|
+|221	|Brown, Iain; Mues, Christophe	|An experimental comparison of classification algorithms for imbalanced credit scoring data sets	|EXPERT SYSTEMS WITH APPLICATIONS	|2012	|http://dx.doi.org/10.1016/j.eswa.2011.09.033|
+|222	|Chang, Shiow-Yun; Yeh, Tsung-Yuan	|An artificial immune classifier for credit scoring analysis	|APPLIED SOFT COMPUTING	|2012	|http://dx.doi.org/10.1016/j.asoc.2011.11.002|
+|223	|Wang, Gang; Ma, Jian; Huang, Lihua; Xu, Kaiquan	|Two credit scoring models based on dual strategy ensemble trees	|KNOWLEDGE-BASED SYSTEMS	|2012	|http://dx.doi.org/10.1016/j.knosys.2011.06.020|
+|224	|Crone, Sven F.; Finlay, Steven	|Instance sampling in credit scoring: An empirical study of sample size and balancing	|INTERNATIONAL JOURNAL OF FORECASTING	|2012	|http://dx.doi.org/10.1016/j.ijforecast.2011.07.006|
+|225	|Khashman, Adnan	|Credit risk evaluation using neural networks: Emotional versus conventional models	|APPLIED SOFT COMPUTING	|2011	|http://dx.doi.org/10.1016/j.asoc.2011.05.011|
+|226	|Yu, Lean; Yao, Xiao; Wang, Shouyang; Lai, K. K.	|Credit risk evaluation using a weighted least squares SVM classifier with design of experiment for parameter selection	|EXPERT SYSTEMS WITH APPLICATIONS	|2011	|http://dx.doi.org/10.1016/j.eswa.2011.06.023|
+|227	|Louzada, Francisco; Anacleto-Junior, Osvaldo; Candolo, Cecilia; Mazucheli, Josimara	|Poly-bagging predictors for classification modelling for credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2011	|http://dx.doi.org/10.1016/j.eswa.2011.04.059|
+|228	|Yao Ping; Lu Yongheng	|Neighborhood rough set and SVM based hybrid credit scoring classifier	|EXPERT SYSTEMS WITH APPLICATIONS	|2011	|http://dx.doi.org/10.1016/j.eswa.2011.02.179|
+|229	|Marcano-Cedeno, Alexis; Marin-De-La-Barcena, A.; Jimenez-Trillo, J.; Pinuela, J. A.; Andina, D.	|ARTIFICIAL METAPLASTICITY NEURAL NETWORK APPLIED TO CREDIT SCORING	|INTERNATIONAL JOURNAL OF NEURAL SYSTEMS	|2011	|http://dx.doi.org/10.1142/S0129065711002857|
+|230	|Chuang, Chun-Ling; Huang, Szu-Teng	|A hybrid neural network approach for credit scoring	|EXPERT SYSTEMS	|2011	|http://dx.doi.org/10.1111/j.1468-0394.2010.00565.x|
+|231	|Finlay, Steven	|Multiple classifier architectures and their application to credit risk assessment	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2011	|http://dx.doi.org/10.1016/j.ejor.2010.09.029|
+|232	|Zhou, Xiaofei; Jiang, Wenhan; Shi, Yong; Tian, Yingjie	|Credit risk evaluation with kernel-based affine subspace nearest points learning method	|EXPERT SYSTEMS WITH APPLICATIONS	|2011	|http://dx.doi.org/10.1016/j.eswa.2010.09.095|
+|233	|Wang, Gang; Hao, Jinxing; Ma, Jian; Jiang, Hongbing	|A comparative assessment of ensemble learning for credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2011	|http://dx.doi.org/10.1016/j.eswa.2010.06.048|
+|234	|Liu, Xiaoyong; Fu, Hui; Lin, Weiwei	|A Modified Support Vector Machine model for Credit Scoring	|INTERNATIONAL JOURNAL OF COMPUTATIONAL INTELLIGENCE SYSTEMS	|2010	||
+|235	|Zhang, Defu; Zhou, Xiyue; Leung, Stephen C. H.; Zheng, Jiemin	|Vertical bagging decision trees model for credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2010	|http://dx.doi.org/10.1016/j.eswa.2010.04.054|
+|236	|Khashman, Adnan	|Neural networks for credit risk evaluation: Investigation of different neural models and learning schemes	|EXPERT SYSTEMS WITH APPLICATIONS	|2010	|http://dx.doi.org/10.1016/j.eswa.2010.02.101|
+|237	|Chen, Fei-Long; Li, Feng-Chia	|Combination of feature selection approaches with SVM in credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2010	|http://dx.doi.org/10.1016/j.eswa.2009.12.025|
+|238	|He, Jing; Zhang, Yanchun; Shi, Yong; Huang, Guangyan	|Domain-Driven Classification Based on Multiple Criteria and Multiple Constraint-Level Programming for Intelligent Credit Scoring	|IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING	|2010	|http://dx.doi.org/10.1109/TKDE.2010.43|
+|239	|Finlay, Steven	|Credit scoring for profitability objectives	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2010	|http://dx.doi.org/10.1016/j.ejor.2009.05.025|
+|240	|Twala, Bhekisipho	|Multiple classifier application to credit risk assessment	|EXPERT SYSTEMS WITH APPLICATIONS	|2010	|http://dx.doi.org/10.1016/j.eswa.2009.10.018|
+|241	|Paleologo, Giuseppe; Elisseeff, Andre; Antonini, Gianluca	|Subagging for credit scoring models	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2010	|http://dx.doi.org/10.1016/j.ejor.2009.03.008|
+|242	|Yu, Lean; Yue, Wuyi; Wang, Shouyang; Lai, K. K.	|Support vector machine based multiagent ensemble learning for credit risk evaluation	|EXPERT SYSTEMS WITH APPLICATIONS	|2010	|http://dx.doi.org/10.1016/j.eswa.2009.06.083|
+|243	|Hsieh, Nan-Chen; Hung, Lun-Ping	|A data driven ensemble classifier for credit scoring analysis	|EXPERT SYSTEMS WITH APPLICATIONS	|2010	|http://dx.doi.org/10.1016/j.eswa.2009.05.059|
+|244	|Zhou, Ligang; Lai, Kin Keung; Yu, Lean	|Least squares support vector machines ensemble models for credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2010	|http://dx.doi.org/10.1016/j.eswa.2009.05.024|
+|245	|Bellotti, T.; Crook, J.	|Credit scoring with macroeconomic variables using survival analysis	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2009	|http://dx.doi.org/10.1057/jors.2008.130|
+|246	|Abdou, Hussein A.	|Genetic programming for credit scoring: The case of Egyptian public sector banks	|EXPERT SYSTEMS WITH APPLICATIONS	|2009	|http://dx.doi.org/10.1016/j.eswa.2009.01.076|
+|247	|Twala, Bhekisipho	|Combining classifiers for credit risk prediction	|JOURNAL OF SYSTEMS SCIENCE AND SYSTEMS ENGINEERING	|2009	|http://dx.doi.org/10.1007/s11518-009-5109-y|
+|248	|Khashman, Adnan	|A NEURAL NETWORK MODEL FOR CREDIT RISK EVALUATION	|INTERNATIONAL JOURNAL OF NEURAL SYSTEMS	|2009	|http://dx.doi.org/10.1142/S0129065709002014|
+|249	|Luo, Shu-Ting; Cheng, Bor-Wen; Hsieh, Chun-Hung	|Prediction model building with clustering-launched classification and support vector machines in credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2009	|http://dx.doi.org/10.1016/j.eswa.2008.09.028|
+|250	|Sustersic, Maia; Mramor, Dusan; Zupan, Jure	|Consumer credit scoring models with limited data	|EXPERT SYSTEMS WITH APPLICATIONS	|2009	|http://dx.doi.org/10.1016/j.eswa.2008.06.016|
+|251	|Chuang, Chun-Ling; Lin, Rong-Ho	|Constructing a reassigning credit scoring model	|EXPERT SYSTEMS WITH APPLICATIONS	|2009	|http://dx.doi.org/10.1016/j.eswa.2007.11.067|
+|252	|Nanni, Loris; Lumini, Alessandra	|An experimental comparison of ensemble of classifiers for bankruptcy prediction and credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2009	|http://dx.doi.org/10.1016/j.eswa.2008.01.018|
+|253	|Xu, Xiujuan; Zhou, Chunguang; Wang, Zhe	|Credit scoring algorithm based on link analysis ranking with support vector machine	|EXPERT SYSTEMS WITH APPLICATIONS	|2009	|http://dx.doi.org/10.1016/j.eswa.2008.01.024|
+|254	|Yu, Lean; Wang, Shouyang; Wen, Fenghua; Lai, Kin Keung; He, Shaoyi	|Designing a Hybrid Intelligent Mining System for Credit Risk Evaluation	|JOURNAL OF SYSTEMS SCIENCE & COMPLEXITY	|2008	|http://dx.doi.org/10.1007/s11424-008-9133-7|
+|255	|Finlay, S. M.	|Towards profitability: a utility approach to the credit scoring problem	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2008	|http://dx.doi.org/10.1057/palgrave.jors.2602394|
+|256	|Tsai, Chih-Fong; Wu, Jhen-Wei	|Using neural network ensembles for bankruptcy prediction and credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2008	|http://dx.doi.org/10.1016/j.eswa.2007.05.019|
+|257	|Yu, Lean; Wang, Shouyang; Lai, Kin Keung	|Credit risk assessment with a multistage neural network ensemble learning approach	|EXPERT SYSTEMS WITH APPLICATIONS	|2008	|http://dx.doi.org/10.1016/j.eswa.2007.01.009|
+|258	|Crook, Jonathan N.; Edelman, David B.; Thomas, Lyn C.	|Recent developments in consumer credit risk assessment	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2007	|http://dx.doi.org/10.1016/j.ejor.2006.09.100|
+|259	|Martens, David; Baesens, Bart; Van Gestel, Tony; Vanthienen, Jan	|Comprehensible credit scoring models using rule extraction from support vector machines	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2007	|http://dx.doi.org/10.1016/j.ejor.2006.04.051|
+|260	|Yang, Yingxu	|Adaptive credit scoring with kernel learning methods	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2007	|http://dx.doi.org/10.1016/j.ejor.2006.10.066|
+|261	|Huang, Cheng-Lung; Chen, Mu-Chen; Wang, Chieh-Jen	|Credit scoring with a data mining approach based on support vector machines	|EXPERT SYSTEMS WITH APPLICATIONS	|2007	|http://dx.doi.org/10.1016/j.eswa.2006.07.007|
+|262	|Laha, Arijit	|Building contextual classifiers by integrating fuzzy rule based classification technique and k-nn method for credit scoring	|ADVANCED ENGINEERING INFORMATICS	|2007	|http://dx.doi.org/10.1016/j.aei.2006.12.004|
+|263	|Doumpos, Michael; Zopounidis, Constantin	|Model combination for credit risk assessment: A stacked generalization approach	|ANNALS OF OPERATIONS RESEARCH	|2007	|http://dx.doi.org/10.1007/s10479-006-0120-x|
+|264	|Hoffmann, F.; Baesens, B.; Mues, C.; Van Gestel, T.; Vanthienen, J.	|Inferring descriptive and approximate fuzzy rules for credit scoring using evolutionary algorithms	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2007	|http://dx.doi.org/10.1016/j.ejor.2005.09.044|
+|265	|Xiao, Wenbing; Zhao, Qian; Fei, Qi	|A COMPARATIVE STUDY OF DATA MINING METHODS IN CONSUMER LOANS CREDIT SCORING MANAGEMENT	|JOURNAL OF SYSTEMS SCIENCE AND SYSTEMS ENGINEERING	|2006	|http://dx.doi.org/10.1007/s11518-006-5023-5|
+|266	|Seow, Hsin-Vonn; Thomas, Lyn C.	|Using adaptive learning in credit scoring to estimate take-up probability distribution	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2006	|http://dx.doi.org/10.1016/j.ejor.2005.06.058|
+|267	|Piramuthu, S	|On preprocessing data for financial credit risk evaluation	|EXPERT SYSTEMS WITH APPLICATIONS	|2006	|http://dx.doi.org/10.1016/j.eswa.2005.10.006|
+|268	|Huang, JJ; Tzeng, GH; Ong, CS	|Two-stage genetic programming (2SGP) for the credit scoring model	|APPLIED MATHEMATICS AND COMPUTATION	|2006	|http://dx.doi.org/10.1016/j.amc.2005.05.027|
+|269	|Lee, TS; Chiu, CC; Chou, YC; Lu, CJ	|Mining the customer credit using classification and regression tree and multivariate adaptive regression splines	|COMPUTATIONAL STATISTICS & DATA ANALYSIS	|2006	|http://dx.doi.org/10.1016/j.csda.2004.11.006|
+|270	|Somol, P; Baesens, B; Pudil, P; Vanthienen, J	|Filter- versus wrapper-based feature selection for credit scoring	|INTERNATIONAL JOURNAL OF INTELLIGENT SYSTEMS	|2005	|http://dx.doi.org/10.1002/int.20103|
+|271	|Liu, Y; Schumann, M	|Data mining feature selection for credit scoring models	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2005	|http://dx.doi.org/10.1057/palgrave.jors.2601976|
+|272	|Verstraeten, G; Van den Poel, D	|The impact of sample bias on consumer credit scoring performance and profitability	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2005	|http://dx.doi.org/10.1057/palgrave.jors.2601920|
+|273	|Ong, CS; Huang, JJ; Tzeng, GH	|Building credit scoring models using genetic programming	|EXPERT SYSTEMS WITH APPLICATIONS	|2005	|http://dx.doi.org/10.1016/j.eswa.2005.01.003|
+|274	|Hsieh, NC	|Hybrid mining approach in the design of credit scoring models	|EXPERT SYSTEMS WITH APPLICATIONS	|2005	|http://dx.doi.org/10.1016/j.eswa.2004.12.022|
+|275	|Lee, TS; Chen, IF	|A two-stage hybrid credit scoring model using artificial neural networks and multivariate adaptive regression splines	|EXPERT SYSTEMS WITH APPLICATIONS	|2005	|http://dx.doi.org/10.1016/j.eswa.2004.12.031|
+|276	|Banasik, J; Crook, J; Thomas, L	|Sample selection bias in credit scoring models	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2003	|http://dx.doi.org/10.1057/palgrave.jors.2601578|
+|277	|Baesens, B; Van Gestel, T; Viaene, S; Stepanova, M; Suykens, J; Vanthienen, J	|Benchmarking state-of-the-art classification algorithms for credit scoring	|JOURNAL OF THE OPERATIONAL RESEARCH SOCIETY	|2003	|http://dx.doi.org/10.1057/palgrave.jors.2601545|
+|278	|Chen, MC; Huang, SH	|Credit scoring and rejected instances reassigning through evolutionary computation techniques	|EXPERT SYSTEMS WITH APPLICATIONS	|2003	|http://dx.doi.org/10.1016/S0957-4174(02)00191-4|
+|279	|Baesens, B; Setiono, R; Mues, C; Vanthienen, J	|Using neural network rule extraction and decision tables for credit-risk evaluation	|MANAGEMENT SCIENCE	|2003	|http://dx.doi.org/10.1287/mnsc.49.3.312.12739|
+|280	|Lee, TS; Chiu, CC; Lu, CJ; Chen, IF	|Credit scoring using the hybrid neural discriminant technique	|EXPERT SYSTEMS WITH APPLICATIONS	|2002	|http://dx.doi.org/10.1016/S0957-4174(02)00044-1|
+|281	|Doumpos, M; Kosmidou, K; Baourakis, G; Zopounidis, C	|Credit risk assessment using a multicriteria hierarchical discrimination approach: A comparative analysis	|EUROPEAN JOURNAL OF OPERATIONAL RESEARCH	|2002	|http://dx.doi.org/10.1016/S0377-2217(01)00254-5|
+![image](https://github.com/zhxmdy/Overview-Consumer-Credit-Risk-Assessment/assets/39161729/cfc6c2dc-ad29-42a5-ad87-749b06749759)
