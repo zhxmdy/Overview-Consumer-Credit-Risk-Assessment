@@ -45,7 +45,7 @@
 
 
 | Number |Book Group Authors	Author Full Names	|Article Title	Source Title|	Publication Year	|DOI Link|
-| :-------- | :--------| :--------|:--: |:--------|
+| :-------- | :--------| :--------| :--------|:--: |:--------|
 |1	|Gong, Ping; Gao, Junguang; Wang, Li	|A Hybrid Evolutionary Under-sampling Method for Handling the Class Imbalance Problem with Overlap in Credit Classification	|JOURNAL OF SYSTEMS SCIENCE AND SYSTEMS ENGINEERING	|2022	|http://dx.doi.org/10.1007/s11518-022-5545-5|
 |2	|Kang, Yanzhe; Chen, Liao; Jia, Ning; Wei, Wei; Deng, Jiang; Qian, Haizhang	|A CWGAN-GP-based multi-task learning model for consumer credit scoring	|EXPERT SYSTEMS WITH APPLICATIONS	|2022	|http://dx.doi.org/10.1016/j.eswa.2022.117650|
 |3	|Kyeong, Sunghyon; Shin, Jinho	|Two-stage credit scoring using Bayesian approach	|JOURNAL OF BIG DATA	|2022	|http://dx.doi.org/10.1186/s40537-022-00665-5|
