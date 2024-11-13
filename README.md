@@ -1,5 +1,7 @@
 # Overview consumer credit risk assessment
 -------------------
+![Supported versions](https://img.shields.io/badge/python-3.8+-blue.svg)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) 
 Zhang X., Yu L. (2024) Consumer credit risk assessment: A review from the state-of-the-art classification algorithm, data traits, and learning methods. Expert Systems with Application, 237:121484.
 - [Overview consumer credit risk assessment](#overview-consumer-credit-risk-assessment)
   - [1. Credit Scoring Datasets](#1-credit-scoring-datasets)
